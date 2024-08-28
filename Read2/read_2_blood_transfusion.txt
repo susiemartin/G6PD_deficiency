@@ -1,0 +1,54 @@
+Code	Name
+ZV582	[V]Blood transfusion, without reported diagnosis
+ZVu3M	[X]Blood transfusion, without reported diagnosis
+ZVu3V	[X]Blood transfusion
+43o..	Blood transfusion test
+4IA3.	Too soon after blood transfusion for reliable screening
+4ID..	Post transfusion, repeat test four months after last transfusion
+687EF	Phenylketonuria screening, sample taken too soon after blood transfusion (less than 72 hours)
+687F7	Maple syrup urine disease screening, sample taken too soon after blood transfusion (less than 72 hours)
+687G1	Cystic fibrosis screening,sample taken too soon after blood transfusion (less than 72 hours)
+687H1	Congenital hypothyroidism screening, sample taken too soon after blood transfusion (less than 72 hours)
+687J1	Medium-chain acyl-coenzyme A dehydrogenase deficiency screening, sample taken too soon after blood transfusion (less than 72 hours)
+687K7	Homocystinuria screening, sample taken too soon after blood transfusion (less than 72 hours)
+687L7	Isovaleric acidaemia screening, sample taken too soon after blood transfusion (less than 72 hours)
+687M7	Glutaric aciduria type 1 screening, sample taken too soon after blood transfusion (less than 72 hours)
+687N1	Sickle cell screening, sample taken too soon after blood transfusion (less than 72 hours)
+7L13.	Exchange blood transfusion
+7L13y	Other specified exchange blood transfusion
+7L13z	Exchange blood transfusion NOS
+7L14.	Other blood transfusion
+7L140	Intraarterial blood transfusion
+7L141	Intravenous blood transfusion of packed cells
+7L142	Intravenous blood transfusion of platelets
+7L143	Intravenous blood transfusion NEC
+7L143	Blood transfusion
+7L148	Autotransfusion of red cells
+7L14y	Other specified other blood transfusion
+7L14z	Other blood transfusion NOS
+7L15.	Other intravenous transfusion
+7L150	Transfusion of coagulation factor
+7L151	Transfusion of plasma
+7L152	Transfusion of serum NEC
+7L153	Transfusion of blood expander
+7L154	Transfusion of platelets NEC
+7L155	Transfusion of bone marrow
+7L158	Transfusion of plasma NEC
+7L15y	Other specified other intravenous transfusion
+7L15z	Other intravenous transfusion NOS
+7L1j.	Other exchange blood transfusion
+88...	Transfusions
+9bC1.	Blood transfusion (specialty)
+D3140	Post-transfusion purpura
+D3140	Thrombocytopenia due to massive blood transfusion
+G8y00	Extravasation following blood transfusion
+SP332	Infection after transfusion
+SP38.	Other transfusion reaction
+SP380	Septic shock due to transfusion
+SP38z	Transfusion reaction NOS
+TA011	Accidental cut, puncture, perforation or haemorrhage during transfusion
+TA111	Foreign object left in body during transfusion
+TA211	Failure of sterile precautions during transfusion
+TA300	Excessive amount of blood or other fluid transfused
+TA411	Mechanical failure of instrument or apparatus during transfusion
+TB1y0	Blood transfusion as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at the time of procedure
