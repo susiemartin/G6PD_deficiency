@@ -1,0 +1,13 @@
+Code	Description
+X33.2	Intravenous blood transfusion of packed cells
+X33.3	Intravenous blood transfusion of platelets
+X33.8	Other specified other blood transfusion
+X33.9	Unspecified other blood transfusion
+X33.1	Intra-arterial blood transfusion
+X33.7	Autologous transfusion of red blood cells
+X34.1	Transfusion of coagulation factor
+X34.2	Transfusion of plasma not elsewhere classified
+X34.3	Transfusion of serum not elsewhere classified
+X34.4	Transfusion of blood expander
+
+
