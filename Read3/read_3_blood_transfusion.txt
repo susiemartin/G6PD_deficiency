@@ -1,0 +1,120 @@
+Code	Name
+7L13.	Exchange transfusion
+7L13.	Exchange blood transfusion
+7L13.	EBT - Exchange blood transfusion
+7L13y	Other specified exchange blood transfusion
+7L13z	Exchange blood transfusion NOS
+7L14.	Other blood transfusion
+7L140	Intra-arterial blood transfusion
+7L141	Intravenous blood transfusion of packed cells
+7L142	Intravenous blood transfusion of platelets
+7L143	Blood transfusion (& intravenous NEC)
+7L143	Blood transfusion
+7L143	Intravenous blood transfusion NEC
+7L14y	Other specified other blood transfusion
+7L14z	Other blood transfusion NOS
+7L15.	Other intravenous transfusion
+7L150	Transfusion of coagulation factor
+7L151	Plasma transfusion
+7L151	Transfusion of plasma
+7L152	Transfusion of serum NEC
+7L153	Transfusion of blood expander
+7L154	Transfusion of platelets NEC
+7L155	Transfusion of bone marrow
+7L15y	Other specified other intravenous transfusion
+7L15z	Other intravenous transfusion NOS
+88...	Transfusions
+D3140	Post-transfusion: [purpura] or [thrombocytopenia]
+D3140	Thrombocytopenia due to massive blood transfusion
+D3140	Post-transfusion purpura
+SP332	Infection after transfusion
+SP36.	ABO mismatched blood transfusion
+SP38.	Other transfusion reaction
+SP380	Septic shock due to transfusion
+SP38z	Transfusion reaction NOS
+TA011	Accidental cut, puncture, perforation or haemorrhage during transfusion
+TA111	Foreign object left in body during transfusion
+TA211	Failure of sterile precautions during transfusion
+TA300	Excessive amount of blood / fluid transfusion
+TA411	Mechanical failure of instrument or apparatus during transfusion
+TB1y0	Blood transfusion as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at the time of procedure
+Ua1B0	Transfusing whole blood
+Ua1B0	Whole blood transfusion
+Ua1B1	Transfusion of blood product
+Ua1B1	Transfusing blood products
+Ua1B3	Red cell exchange transfusion
+X019s	Transfusion and related procedures
+X019t	Blood transfusion
+X019t	BT - Blood transfusion
+X019u	Dilutional exchange transfusion
+X019v	Adult exchange transfusion
+X01A0	Autologous blood transfusion
+X01A0	ABT - Autologous blood transfusion
+X01A1	Hypertransfusion
+X208p	Overtransfusion
+X20Fs	Transfusion reaction
+X20Fu	Febrile transfusion reaction
+X20Fv	Mismatched blood transfusion
+X20Fw	Haemolytic transfusion reaction
+X20Fx	Pulmonary transfusion reaction
+X20Fy	Transfusion haemosiderosis
+X76wq	Blood transfusion observation
+X77Zb	Blood transfusion test
+Xa0Jz	Blood group antibody-antigen mismatch blood transfusion
+Xa0K0	Delayed transfusion reaction
+Xa0O9	Massive blood transfusion
+Xa3j1	Accidental wound during transfusion
+Xa3wn	Cut-down blood transfusion
+Xa3wo	Replacement blood transfusion
+Xa3zr	Packed blood cell transfusion
+Xa3zs	Blood cell transfusion NOS
+Xa3zt	Plasma/plasma substitute transfusion
+Xa3zu	Plasma expander transfusion
+Xa3zx	Plasma/substitute transfusion NOS
+Xa86Y	Intravenous blood transfusion
+Xa86Y	IV - Intraven blood transfusn
+Xa9DQ	Urticarial transfusion reaction
+Xa9mZ	Transfusion - action
+Xa9mZ	Transfusion
+XaA1T	Immediate transfusion reaction
+Xaa4B	Post transfusion, repeat test four months after last transfusion
+Xaan4	Autotransfusion of red cells
+XaB48	Thrombocytopenia due to massive blood transfusion
+XaBpA	Blood transfusion doctor
+XaC17	Extravasation following blood transfusion
+XaC59	Blood transfusion department
+Xac6K	Phenylketonuria screening, sample taken too soon after blood transfusion (less than 72 hours)
+XaC7e	Blood transfusion service
+Xac7g	Cystic fibrosis screening,sample taken too soon after blood transfusion (less than 72 hours)
+Xac8i	Sickle cell screening, sample taken too soon after blood transfusion (less than 72 hours)
+Xac9C	Congenital hypothyroidism screening, sample taken too soon after blood transfusion (less than 72 hours)
+Xac9X	Medium-chain acyl-coenzyme A dehydrogenase deficiency screening, sample taken too soon after blood transfusion (less than 72 hours)
+XacA7	Maple syrup urine disease screening, sample taken too soon after blood transfusion (less than 72 hours)
+XacB9	Homocystinuria screening, sample taken too soon after blood transfusion (less than 72 hours)
+XacBl	Isovaleric acidaemia screening, sample taken too soon after blood transfusion (less than 72 hours)
+XacCW	Glutaric aciduria type 1 screening, sample taken too soon after blood transfusion (less than 72 hours)
+XaIiy	Blood transfusion (specialty)
+XaMMs	Transfusion of plasma NEC
+XaNLX	Too soon after blood transfusion for reliable screening
+XE0Ja	Intravenous blood transfusion NEC
+XE0k5	Transfusions
+XE0k7	Blood transfusion (& cell)
+XE0k7	Blood transfusion
+XE0k7	Cell -blood-transfusion
+XE0k7	Transfusion - blood
+XE0k7	Blood cell transfusion
+XE0k9	Transfusion: [plasma] or [plasma substitute]
+XE0k9	Plasma transfusion
+XE0k9	Plasma/plasma substit.transfus
+XE0k9	Plasma/plasma substitute transfusion
+XE0kB	Blood expander transfusion (& dextran)
+XE0kB	Dextran transfusion
+XE0kB	Blood expander transfusion
+XE2rp	Post-transfusion thrombocytopenic purpura
+XE2S9	(Transfusion reaction) or (incompatibility - blood)
+XE2S9	Transfusion reaction
+XM185	Platelet transfusion
+XM186	Serum transfusion
+XM188	Antihaemophilic factor transfusion
+ZV582	[V]Blood transfusion, without reported diagnosis
+ZVu3M	[X]Blood transfusion, without reported diagnosis
