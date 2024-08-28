@@ -1,0 +1,108 @@
+﻿Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+End stage renal disease,14S2.00,251923016,H/O: kidney recipient,161665007,251923016
+End stage renal disease,14V2.00,251957012,H/O: renal dialysis,161693006,251957012
+End stage renal disease,14V2.11,251956015,H/O: kidney dialysis,161693006,251956015
+End stage renal disease,1Z14.00,3.04111E+14,Chronic kidney disease stage 5,433146000,2767154014
+End stage renal disease,1Z1K.00,5.96321E+14,Chronic kidney disease stage 5 with proteinuria,3.24501E+14,5.96321E+14
+End stage renal disease,1Z1L.00,5.96401E+14,Chronic kidney disease stage 5 without proteinuria,3.24541E+14,5.96401E+14
+End stage renal disease,1Z1L.11,6.18521E+14,CKD stage 5 without proteinuria,3.24541E+14,6.18521E+14
+End stage renal disease,4I29.00,261136015,Peritoneal dialysis sample,168140004,261136015
+End stage renal disease,4N0..00,2478488018,Dialysis fluid urea level,9.91511E+14,2.57042E+15
+End stage renal disease,4N2..00,2478492013,Dialysis fluid glucose level,9.91521E+14,2.55899E+15
+End stage renal disease,7B00.00,501594013,Transplantation of kidney,70536003,501594013
+End stage renal disease,7B00100,9.0471E+13,Live donor renal transplant,175901007,272318013
+End stage renal disease,7B00111,272320011,Allotransplantation of kidney from live donor,175901007,272320011
+End stage renal disease,7B00200,9.0461E+13,Transplantation of kidney from cadaver,175902000,272325018
+End stage renal disease,7B00211,4.78131E+14,Allotransplantation of kidney from cadaver,175902000,272325018
+End stage renal disease,7B00212,272325018,Cadaveric renal transplant,175902000,272325018
+End stage renal disease,7B00300,3.72621E+14,Allotransplantation of kidney from beating heart cadaver,711411006,3078356013
+End stage renal disease,7B00400,1.54984E+15,Allotransplantation of kidney from non-beating heart cadaver,711413009,3078484016
+End stage renal disease,7B00500,3.99381E+14,Allotransplantation of kidney from cadaver NEC,175902000,272323013
+End stage renal disease,7B00y00,272326017,Other specified transplantation of kidney,70536003,117163013
+End stage renal disease,7B00z00,272327014,Transplantation of kidney NOS,70536003,501594013
+End stage renal disease,7B01511,422992018,Excision of rejected transplanted kidney,284348003,422992018
+End stage renal disease,7B06300,272389014,Exploration of renal transplant,175948009,272389014
+End stage renal disease,7B0F.00,3.66671E+14,Interventions associated with transplantation of kidney,711446003,3078450015
+End stage renal disease,7B0F300,3.80101E+14,Examination of recipient after kidney transplant,428645009,2693113012
+End stage renal disease,7B0Fy00,1.55002E+15,OS interventions associated with transplantation of kidney,711446003,3078450015
+End stage renal disease,7B0Fz00,3.80061E+14,Interventions associated with transplantation of kidney NOS,711446003,3078450015
+End stage renal disease,7L1A.11,6.19541E+14,Dialysis for renal failure,265764009,394640016
+End stage renal disease,7L1A000,394640016,Renal dialysis,265764009,394640016
+End stage renal disease,7L1A011,1.06291E+14,Thomas intravascular shunt for dialysis,302497006,444203017
+End stage renal disease,7L1A100,118218017,Peritoneal dialysis,71192002,118218017
+End stage renal disease,7L1A200,278832011,Haemodialysis,302497006,444203017
+End stage renal disease,7L1A400,2692168016,Automated peritoneal dialysis,428648006,2692168016
+End stage renal disease,7L1A500,357219012,Continuous ambulatory peritoneal dialysis,238318009,357219012
+End stage renal disease,7L1A600,3.75841E+14,Peritoneal dialysis NEC,71192002,118218017
+End stage renal disease,7L1B.11,2.28131E+14,Placement ambulatory dialysis apparatus - compens renal fail,180272001,278839019
+End stage renal disease,7L1B000,7.73041E+14,Insertion of chronic ambulatory peritoneal dialysis catheter,180272001,278839019
+End stage renal disease,7L1B100,1.81021E+14,Removal of ambulatory peritoneal dialysis catheter,180273006,278840017
+End stage renal disease,7L1B200,1.70562E+15,Flushing of peritoneal dialysis catheter,238317004,1.70562E+15
+End stage renal disease,7L1C000,278844014,Insertion of temporary peritoneal dialysis catheter,180277007,278844014
+End stage renal disease,8882,282526013,Intestinal dialysis,182753006,282526013
+End stage renal disease,G72C.00,2.19512E+15,Ruptured aneurysm of dialysis vascular access,8.46461E+14,2.19512E+15
+End stage renal disease,G72D.00,2.19566E+15,Aneurysm of dialysis arteriovenous fistula,8.46731E+14,2.19566E+15
+End stage renal disease,G72D000,1.84709E+15,Aneurysm of superficialised artery of dialysis arteriovenous fistula,8.46671E+14,2.19554E+15
+End stage renal disease,G72D100,2.19572E+15,Aneurysm of needle site of dialysis arteriovenous fistula,8.46761E+14,2.19572E+15
+End stage renal disease,G72D200,1.84711E+15,Aneurysm of anastomotic site of dialysis arteriovenous fistula,8.46801E+14,2.1958E+15
+End stage renal disease,Gy1..00,2.21034E+15,Stenosis of dialysis vascular access,8.53631E+14,2.21034E+15
+End stage renal disease,Gy10.00,2.23798E+15,Stenosis of dialysis arteriovenous graft,8.65841E+14,2.23798E+15
+End stage renal disease,Gy2..00,2.21038E+15,Thrombosis of dialysis vascular access,8.53651E+14,2.21038E+15
+End stage renal disease,Gy21.00,2.2383E+15,Thrombosis of dialysis arteriovenous fistula,8.66001E+14,2.2383E+15
+End stage renal disease,Gy3..00,2.23782E+15,Occlusion of dialysis vascular access,8.65761E+14,2.23782E+15
+End stage renal disease,Gy30.00,2.23838E+15,Occlusion of dialysis arteriovenous graft,8.66041E+14,2.23838E+15
+End stage renal disease,Gy31.00,2.23842E+15,Occlusion of dialysis arteriovenous fistula,8.66061E+14,2.23842E+15
+End stage renal disease,Gy4..00,2.23786E+15,Infection of dialysis vascular access,8.65781E+14,2.23786E+15
+End stage renal disease,Gy40.00,2.24032E+15,Infection of dialysis arteriovenous graft,430332005,2.24032E+15
+End stage renal disease,Gy41.00,1.8708E+15,Infection of haemodialysis arteriovenous fistula,449288005,2901095010
+End stage renal disease,Gy5..00,2.2379E+15,Haemorrhage of dialysis vascular access,8.65801E+14,2.2379E+15
+End stage renal disease,Gy51.00,2.24087E+15,Haemorrhage of dialysis arteriovenous fistula,8.67011E+14,2.24087E+15
+End stage renal disease,Gy60.00,2.24095E+15,Rupture of dialysis arteriovenous graft,8.67051E+14,2.24095E+15
+End stage renal disease,K05..12,6.41471E+14,End stage renal failure,46177005,76995019
+End stage renal disease,K050.00,2.15521E+14,End stage renal disease,46177005,76995019
+End stage renal disease,K0B5.00,1.77341E+14,Renal tubulo-interstitial disorders in transplant rejection,197747000,304045012
+End stage renal disease,K0D..00,6.41491E+14,End-stage renal disease,46177005,76996018
+End stage renal disease,Kyu1C00,4.24791E+14,[X]Renal tubulo-interstitial disorders/transplant rejection,197747000,304045012
+End stage renal disease,SP01500,30043012,Mechanical complication of dialysis catheter,17778006,30043012
+End stage renal disease,SP05613,453312018,Peritoneal dialysis-associated peritonitis,276883000,413231010
+End stage renal disease,SP06B00,1.74324E+15,Continuous ambulatory peritoneal dialysis associated peritonitis,699235009,2983127018
+End stage renal disease,SP07G00,2645965011,Stenosis of arteriovenous dialysis fistula,423062001,2645965011
+End stage renal disease,SP08300,324973015,Kidney transplant failure and rejection,213150003,324973015
+End stage renal disease,SP08D00,354628010,Acute-on-chronic rejection of renal transplant,236582008,354628010
+End stage renal disease,SP08E00,354616019,Acute rejection of renal transplant - grade I,236575009,354616019
+End stage renal disease,SP08F00,354617011,Acute rejection of renal transplant - grade II,236576005,354617011
+End stage renal disease,SP08G00,354618018,Acute rejection of renal transplant - grade III,236577001,354618018
+End stage renal disease,SP08H00,354615015,Acute rejection of renal transplant,236574008,354615015
+End stage renal disease,SP08J00,354619014,Chronic rejection of renal transplant,236578006,354619014
+End stage renal disease,SP08N00,413415016,Unexplained episode of renal transplant dysfunction,277010001,413415016
+End stage renal disease,SP08P00,2.19814E+15,Stenosis of vein of transplanted kidney,8.47881E+14,2.19814E+15
+End stage renal disease,SP08R00,354610013,Renal transplant rejection,236570004,354610013
+End stage renal disease,SP08T00,2.18915E+15,Urological complication of renal transplant,8.43691E+14,2.18915E+15
+End stage renal disease,SP08V00,354613010,Very mild acute rejection of renal transplant,236573002,354613010
+End stage renal disease,SP08W00,2.19122E+15,Vascular complication of renal transplant,8.44661E+14,2.19122E+15
+End stage renal disease,SP0E.00,1.84874E+15,Complication of peritoneal dialysis,33461007,55841017
+End stage renal disease,SP0F.00,2.21131E+15,Haemodialysis first use syndrome,236539007,2.21131E+15
+End stage renal disease,SP0G.00,2.21167E+15,Anaphylactoid reaction due to haemodialysis,8.54161E+14,2.21167E+15
+End stage renal disease,TA02000,4.41151E+14,"Accidental cut, puncture, perforation or haemorrhage during kidney dialysis",216878005,329026014
+End stage renal disease,TA22000,329116017,Failure of sterile precautions during kidney dialysis,216933008,329116017
+End stage renal disease,TB00100,7.54061E+14,"Kidney transplant with complication, without blame",88797001,147234011
+End stage renal disease,TB00111,1.77251E+14,"Renal transplant with complication, without blame",88797001,147234011
+End stage renal disease,TB11.00,7.54781E+14,"Kidney dialysis with complication, without blame",116223007,178923014
+End stage renal disease,TB11.11,1.76711E+14,"Renal dialysis with complication, without blame",116223007,178923014
+End stage renal disease,Z1A..00,6.44779E+15,Dialysis training,385972005,6.36001E+14
+End stage renal disease,Z1A1.00,3.57981E+15,Peritoneal dialysis training,66402002,110282012
+End stage renal disease,Z1A2.00,2.96322E+15,Haemodialysis training,28812006,483984013
+End stage renal disease,Z919.00,6.00056E+15,Care of haemodialysis equipment,310489004,454076011
+End stage renal disease,Z919100,4.93861E+15,Priming haemodialysis lines,225283000,338540019
+End stage renal disease,Z919200,4.93859E+15,Washing back through haemodialysis lines,225282005,338536011
+End stage renal disease,Z919300,4.93857E+15,Reversing haemodialysis lines,225281003,338535010
+End stage renal disease,Z91A.00,4.93792E+15,Peritoneal dialysis bag procedure,225229003,338463014
+End stage renal disease,ZV42000,460644012,History of renal transplant,161665007,2793932016
+End stage renal disease,ZV45100,460680012,Dialysis finding,251859005,375186018
+End stage renal disease,ZV56.00,460910019,[V]Aftercare involving intermittent dialysis,3.98471E+14,1.00847E+15
+End stage renal disease,ZV56000,460911015,[V]Aftercare involving extracorporeal dialysis,4.10511E+14,1.00848E+15
+End stage renal disease,ZV56011,1227722017,[V]Aftercare involving renal dialysis NOS,4.10511E+14,1.00848E+15
+End stage renal disease,ZV56y00,460913017,[V]Other specified aftercare involving intermittent dialysis,4.26351E+14,1.0085E+15
+End stage renal disease,ZV56y11,1227723010,[V]Aftercare involving peritoneal dialysis,4.26351E+14,1.0085E+15
+End stage renal disease,ZV56z00,460914011,[V]Unspecified aftercare involving intermittent dialysis,4.26361E+14,1.00851E+15
+End stage renal disease,ZVu3G00,461420012,Dialysis procedure,108241001,172680015
