@@ -1,0 +1,6 @@
+Code	Description
+282	Hereditary hemolytic anemias
+283	Acquired hemolytic anemias
+
+
+
