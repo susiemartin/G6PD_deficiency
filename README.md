@@ -2,7 +2,7 @@
 
 Electronic health record (EHR) code lists and R scripts required for analysis of G6PD NEJM project - identification of G6PD carriers, G6PD deficiency / haemolytic anaemia diagnoses, and age of type 2 diabetes diagnosis.
 
-The UK Biobank data stored on DNAnexus used for this analysis was in a project created on March 1st 2024 (total N=X). Tables showing which UK Biobank fields were extracted using the DNAnexus 'Table Exporter' tool into each of the .csv files read into the R scripts are given and denoted as 'UKB_table_exporter_NameOfCsvFile.xlsx'.
+The UK Biobank data stored on DNAnexus used for this analysis was in a project created on March 1st 2024 (total N=502,185). Tables showing which UK Biobank fields were extracted using the DNAnexus 'Table Exporter' tool into each of the .csv files read into the R scripts are given and denoted as 'UKB_table_exporter_NameOfCsvFile.xlsx'.
 
 EHR code lists for all conditions to be used in analysis are given in read, ICD, OPCS and SNOMED format, as well as self-reported definitions from the UK Biobank 20002/20003 variable fields.
 
