@@ -1,3 +1,0 @@
-Code	Description
-Z51.3	Blood transfusion (without reported diagnosis)
-
