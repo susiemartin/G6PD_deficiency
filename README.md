@@ -4,7 +4,7 @@ Electronic health record (EHR) code lists and R scripts required for analysis of
 
 The UK Biobank data stored on DNAnexus used for this analysis was in a project created on March 1st 2024 (total N=502,185). Tables showing which UK Biobank fields were extracted using the DNAnexus 'Table Exporter' tool into each of the .csv files read into the R scripts are given and denoted as 'UKB_table_exporter_NameOfCsvFile.xlsx'.
 
-EHR code lists for all conditions to be used in analysis are given in read, ICD, OPCS and SNOMED format, as well as self-reported definitions from the UK Biobank 20002/20003 variable fields.
+EHR code lists for all conditions to be used in analysis are given in read, ICD and SNOMED format, as well as self-reported definitions from the UK Biobank 20002/20003 variable fields.
 
 R scripts to be used with UK Biobank data on DNAnexus. Scripts are split in data prep (step*.R) and reseach question analysis (Research_Question*.R).
 
@@ -18,7 +18,5 @@ Scripts for research question analyses:
 
     Research_Question_1.R - applies analysis for research question 1 (prevalence of G6PD variants and G6PD deficiency / haemolytic anaemia diagnoses)
     Research_Question_2.R - applies main analysis for research question 2 (comparison of HbA1c and glucose in individuals without diabetes)
-    Research_Question_2_sensitivity.R - applies sensitivity analysis for research question 2 (comparison of HbA1c and glucose in individuals without conditions that affect HbA1c levels)
-    Research_Question_2_T2D.R - applies additional analysis for research question 2 (comparison of HbA1c and glucose in individuals with type 2 diabetes)
     Research_Question_3.R - applies analysis for research question 3a (comparison of age of diagnosis of type 2 diabetes).
     
