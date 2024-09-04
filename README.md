@@ -1,12 +1,15 @@
-# G6PD and age of diagnosis analysis - NEJM letter
+# Undiagnosed G6PD deficiency is common in Black individuals in the UK, and contributes to health inequalities in type 2 diabetes diagnosis
 
-Electronic health record (EHR) code lists and R scripts required for analysis of G6PD NEJM project - identification of G6PD carriers, G6PD deficiency / haemolytic anaemia diagnoses, and age of type 2 diabetes diagnosis.
+Electronic health record (EHR) code lists and R scripts required for analysis of this project, as well as model diagnostic plots referenced in the Supplementary Appendix.
 
-The UK Biobank data stored on DNAnexus used for this analysis was in a project created on March 1st 2024 (total N=502,185). Tables showing which UK Biobank fields were extracted using the DNAnexus 'Table Exporter' tool into each of the .csv files read into the R scripts are given and denoted as 'UKB_table_exporter_NameOfCsvFile.xlsx'.
+# EHR code lists for clinical phenotype defintions
+The UK Biobank data used for this analysis (stored on DNAnexus) was last updated on March 1st 2024 (total N=502,185). Tables showing which UK Biobank fields were extracted using the DNAnexus 'Table Exporter' tool into each of the .csv files read into the R scripts are given in UKB_table_exporter_fields.xlsx.
 
-EHR code lists for all conditions to be used in analysis are given in read, ICD and SNOMED format, as well as self-reported definitions from the UK Biobank 20002/20003 variable fields.
+EHR code lists for all conditions used in the analysis are given in read v2, read v3, ICD-9, ICD-10 and SNOMED format, as well as self-reported definitions from the UK Biobank fields.
 
-R scripts to be used with UK Biobank data on DNAnexus. Scripts are split in data prep (step*.R) and reseach question analysis (Research_Question*.R).
+# R scripts
+# UK Biobank
+R scripts to be used with UK Biobank data on DNAnexus. Scripts are split in data prep (prep_*.R) and sub-analysis (analysis_*.R).
 
 Data prep scripts to be run in the following order:
 
