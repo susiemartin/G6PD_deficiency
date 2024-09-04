@@ -1,6 +1,0 @@
-ICD10	Term
-D55	Anemia due to enzyme disorders
-D56	Thalassemia
-D57	Sickle-cell disorders
-D58	Other hereditary hemolytic anemias
-D59	Acquired hemolytic anemia
