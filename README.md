@@ -47,3 +47,4 @@ Model diagnostic plots for the linear regression model used in the analysis of a
 ## References
 1. Young KG, McGovern AP, Barroso I, et al. The impact of population-level HbA(1c) screening on reducing diabetes diagnostic delay in middle-aged adults: a UK Biobank analysis. Diabetologia 2023;66:300-9.
 2. Minassian C, Williams R, Meeraus WH, Smeeth L, Campbell OMR, Thomas SL. Methods to generate and validate a Pregnancy Register in the UK Clinical Practice Research Datalink primary care database. Pharmacoepidemiol Drug Saf 2019;28:923-33.
+3. Eto, F., Samuel, M., Finer, S. MULTIPLY initiative, <https://github.com/Fabiola-Eto/MULTIPLY-Initiative> (2023).
