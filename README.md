@@ -1,6 +1,6 @@
 # Undiagnosed G6PD deficiency is common in Black individuals in the UK, and contributes to health inequalities in type 2 diabetes diagnosis
 
-Electronic health record (EHR) code lists, R scripts and PLINK commands required for analysis of this project, as well as model diagnostic plots referenced in the **Supplementary Appendix**.
+This repository contains the electronic health record (EHR) code lists, R scripts and PLINK commands required for analysis of this project, as well as model diagnostic plots for the age of diagnsis models detailed in the **Supplementary Appendix**.
 
 ## EHR code lists for clinical phenotype defintions
 EHR code lists for all conditions used in the analysis are given in read v2, read v3, ICD-9, ICD-10 and SNOMED format, as well as self-reported definitions from the UK Biobank 20002 and 20003 fields. Details of the UK Biobank fields, assessment centre visits and values used to define each phenotype are given in **UKB_phenotype_definitions.csv**.
