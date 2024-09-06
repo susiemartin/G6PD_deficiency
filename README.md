@@ -45,6 +45,8 @@ The UK Biobank data used for this analysis (stored on DNAnexus) was last updated
 Model diagnostic plots for the linear regression model used in the analysis of age of type 2 diagnosis and described in the **Supplementary Appendix**. Names of plots reflect the cohort and ethnicity grouping that the model was applied to.
 
 ## References
-1. Young KG, McGovern AP, Barroso I, et al. The impact of population-level HbA(1c) screening on reducing diabetes diagnostic delay in middle-aged adults: a UK Biobank analysis. Diabetologia 2023;66:300-9.
-2. Minassian C, Williams R, Meeraus WH, Smeeth L, Campbell OMR, Thomas SL. Methods to generate and validate a Pregnancy Register in the UK Clinical Practice Research Datalink primary care database. Pharmacoepidemiol Drug Saf 2019;28:923-33.
-3. Eto, F., Samuel, M., Finer, S. MULTIPLY initiative, <https://github.com/Fabiola-Eto/MULTIPLY-Initiative> (2023).
+1. Young, K.G., McGovern, A.P., Barroso, I., et al. The impact of population-level HbA(1c) screening on reducing diabetes diagnostic delay in middle-aged adults: a UK Biobank analysis. Diabetologia (2023); 66:300-9.
+2. Young, K.G. UK Biobank codelists, <https://github.com/drkgyoung/UK_Biobank_codelists> (2024).
+3. Minassian, C., Williams, R., Meeraus, W.H., Smeeth, L., Campbell, O.M.R., Thomas, S.L. Methods to generate and validate a Pregnancy Register in the UK Clinical Practice Research Datalink primary care database. Pharmacoepidemiol Drug Saf (2019); 28:923-33.
+4. Eto, F., Samuel, M., Finer, S. MULTIPLY initiative, <https://github.com/Fabiola-Eto/MULTIPLY-Initiative> (2023).
+5. Green, H.G. UKBB Health Care Records, <https://github.com/hdg204/UKBB> (2024).
