@@ -33,7 +33,7 @@ Data preparation scripts are to be run in the following order:
 The UK Biobank data used for this analysis (stored on DNAnexus) was last updated on March 1st 2024 (total N=502,185). The UK Biobank fields extracted from the cohort dataset into *.csv files (using the 'Table Exporter' tool), and which were then used in the R scripts, are given in **UKB_table_exporter_fields.xlsx**.
 
 ## Model diagnostic plots
-Model diagnostic plots for the linear regression model used in the analysis of age of type 2 diagnosis and described in the **Supplementary Appendix**. Names of plots reflect the cohort and ethnicity grouping that the model was applied to.
+Model diagnostic plots for the linear regression model used in the analysis of age of type 2 diagnosis and described in the **Supplementary Appendix**. Names of plot files refer to the cohort, ethnicity grouping and sex that the model was applied to.
 
 ## References
 1. Green, H.G. UKBB Health Care Records, <https://github.com/hdg204/UKBB> (2024).
