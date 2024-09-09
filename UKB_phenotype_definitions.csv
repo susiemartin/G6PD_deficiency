@@ -1,0 +1,29 @@
+﻿Condition/variable,UK Biobank field,Which assessment centre visit,Values used to indicate diagnosis
+G6PD deficiency,Linked primary care data,"N/A, event date at any time",Any G6PD deficiency code*
+,Linked secondary care data,"N/A, episode start date at any time",Any G6PD deficiency code*
+Haemolytic anaemia,Linked primary care data,"N/A, event date at any time",Any haemolytic anaemia code*
+,Linked secondary care data,"N/A, episode start date at any time",Any haemolytic anaemia code*
+"Diabetes prevalent at baseline visit (loose definition for exclusion purposes) - using modified definitions from Young, et al. (2023)",2443 Diabetes diagnosed by a doctor,First,1 Yes
+,6148 Eye problems/ disorders,First,1 Diabetes related eye disease
+,"6153 Medication for cholesterol, blood pressure, diabetes, or take exogenous hormones",First,3 Insulin
+,"6177 Medication for cholesterol, blood pressure or diabetes",First,3 Insulin
+,"20002 Non-cancer illness code, self-reported",First,Any diabetes code including diabetes-specific complications*
+,"20002 Non-cancer illness code, self-reported","Second, third and forth",Any diabetes code including diabetes-specific complications* where diagnosis date was earlier or in the same year as the first assessment centre visit
+,20003 Treatment/ medication code,First,Any diabetes medication code*
+,Linked primary care data,"N/A, event/issue date ≤ first assessment centre visit","Any diabetes code including diabetes-specific complications and processes of care, prescription for diabetes medication*"
+,Linked secondary care data,"N/A, episode start date ≤ first assessment centre visit",Any diabetes code including diabetes-specific complications or recorded use of diabetes medication*
+Pregnant or within 6-weeks postpartum at baseline visit,3140 Pregnant,First,1 Yes
+,Linked primary care data,"N/A, estimated pregnancy start date ≤ first assessment centre visit ≤ estimated date of 6-weeks postpartum","Any pregnancy outcome code split into three groups of gestation length to back-calculate estimated pregnancy start/postpartum dates from event date:* 12 weeks (e.g. ectopic), 24 weeks (e.g. miscarriage), 40 weeks (e.g. live birth)."
+,Linked secondary care data,"N/A, estimated pregnancy start date ≤ first assessment centre visit ≤ estimated date of 6-weeks postpartum","Any pregnancy outcome code split into three groups of gestation length to back-calculate estimated pregnancy start/postpartum dates from episode end date:* 12 weeks (e.g. ectopic), 24 weeks (e.g. miscarriage), 40 weeks (e.g. live birth)."
+"Type 2 diabetes (strict definition for inclusion purposes, which includes excluding those on insulin within one year of diagnosis - see below for definition) + age of diagnosis",2976 Age diabetes diagnosed,Any,-
+,"20002 Non-cancer illness code, self-reported",Any,1223 Type 2 diabetes
+,Linked primary care data,"N/A, event date at any time","Any type 2 diabetes code including type 2 diabetes-specific complications and processes of care, and excluding codes for non-type 1/2 diabetes (e.g. genetic, gestational)*"
+,Linked secondary care data,"N/A, episode start date at any time","Any type 2 diabetes code including type 2 diabetes-specific complications, and excluding codes for non-type 1/2 diabetes (e.g. genetic, gestational)*"
+Insulin use within one year of diabetes diagnosis (for exclusion in type 2 diabetes definitions above),2986 Started insulin within one year diagnosis of diabetes,Any,1 Yes
+,"6153 Medication for cholesterol, blood pressure, diabetes, or take exogenous hormones",Any,"3 Insulin, where start date was estimated as date of corresponding assessment centre visit"
+,"6177 Medication for cholesterol, blood pressure or diabetes",Any,"3 Insulin, where start date was estimated as date of corresponding assessment centre visit"
+,20003 Treatment/ medication code,Any,"1140883066 Insulin, where start date was estimated as date of corresponding assessment centre visit"
+,Linked primary care data,"N/A, issue date ≤ one year after diabetes diagnosis",Any prescription code for insulin*
+,Linked secondary care data,"N/A, episode start date ≤ one year after diabetes diagnosis",Any code for long-term use of insulin*
+,,,
+,,,
