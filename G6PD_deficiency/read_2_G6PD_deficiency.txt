@@ -1,4 +1,0 @@
-read_2	Term
-C3102	Von Gierke's disease
-D1020	Glucose-6-phosphate dehydrogenase deficiency anaemia
-Q4300	Neonatal jaundice with glucose-6-phosphate dehydrogenase deficiency
