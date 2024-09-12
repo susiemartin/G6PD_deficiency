@@ -20,7 +20,7 @@ The below R scripts are split into phenotype data preparation and analysis. Name
 
 R scripts are to be run in the following order (after running the above shell script):
 - **phenotype_prep_*.R**: Script to prepare phenotype data - uses EHR codes and defines all clinical phenotypes used in analyses
-- **analysis_*.R**: Script to combine genetic and phenotype data, apply necessary quality control to data and conduct all statistical analyses.
+- **G6PD_analysis_*.R**: Script to combine genetic and phenotype data, apply necessary quality control to data and conduct all statistical analyses.
 
 ## UK Biobank version date and fields extracted
 The UK Biobank data used for this analysis (stored on DNAnexus) was last updated on March 1st 2024 (total N=502,185). The UK Biobank fields extracted from the cohort dataset into *.csv files (using the 'Table Exporter' tool), and which were then used in the R scripts, are given in **UKB_table_exporter_fields.xlsx**.
