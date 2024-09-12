@@ -16,18 +16,11 @@ All other EHR code lists were curated by Susan Martin with Michael Barrington, M
 
 The shell script **extract_UKB_WES_genotypes.sh** is to be executed using Bash on JupyterLab on DNAnexus. It contains PLINK commands to extract the whole exome sequencing (WES) data for the two genetic variants of interest, and recode the genotypes according to the additive model. Equivalent commands were used to extract the WES data for Genes & Health (on TRE).
 
-The below R scripts are split into data preparation (**prep_\*.R**) and analysis (**analysis_*.R**). Names of the scripts include the cohort that these scripts are to be applied to - either UK Biobank (on DNAnexus) or Genes & Health (on TRE). Data preparation scripts for Genes & Health are comparable and will be available soon.
+The below R scripts are split into phenotype data preparation and analysis. Names of the scripts include the cohort that these scripts are to be applied to - either UK Biobank (on DNAnexus) or Genes & Health (on TRE). Phenotype data preparation scripts for Genes & Health are comparable and will be available soon.
 
-### Data preparation
-Data preparation scripts are to be run in the following order:
-- **prep_*_genetic_data_step1.R**: Script to prepare genetic data (after applying above PLINK commands)
-- **prep_*_phenotype_data_step2.R**: Script to prepare phenotype data - uses EHR codes and defines all clinical phenotypes used in analyses
-- **prep_*_data_cleaning_step3.R**: Combines genetic and phenotype data and applies necessary quality control to this data.
-
-### Statistical analyses
-- **analysis_*_prevalence.R**: Calculates prevalence of _G6PD_ variants and G6PD deficiency diagnoses
-- **analysis_*_HbA1c.R**: Comparison of HbA1c and random glucose across genotypes in individuals without diabetes or pregnancy
-- **analysis_*_age_diagnosis.R**: Comparison of age of type 2 diabetes diagnosis across genotypes in individuals diagnosed since 2011.
+R scripts are to be run in the following order (after running the above shell script):
+- **phenotype_prep_*.R**: Script to prepare phenotype data - uses EHR codes and defines all clinical phenotypes used in analyses
+- **analysis_*.R**: Script to combine genetic and phenotype data, apply necessary quality control to data and conduct all statistical analyses.
 
 ## UK Biobank version date and fields extracted
 The UK Biobank data used for this analysis (stored on DNAnexus) was last updated on March 1st 2024 (total N=502,185). The UK Biobank fields extracted from the cohort dataset into *.csv files (using the 'Table Exporter' tool), and which were then used in the R scripts, are given in **UKB_table_exporter_fields.xlsx**.
