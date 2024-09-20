@@ -85,7 +85,7 @@ alldata <- neg_vars(num_variable = "age")
 
 ### G6PD deficiency diagnoses ###
 
-# Read in blood disorder codes for G6PD deficiency and haemolytic anaemia
+# Read in blood disorder codes for G6PD deficiency
 system("dx download /EHR_codes/G6PD_deficiency/*")
 
 # Identify all IDs with diagnosis of G6PD deficiency in GP/HES data
