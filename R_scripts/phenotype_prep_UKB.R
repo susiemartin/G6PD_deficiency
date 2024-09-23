@@ -105,7 +105,7 @@ icd10data <- read_ICD10(icd10codes)
 icd9data <- read_ICD9(icd9codes)
 g6pdids <- unique(c(g6pdids, icd10data$eid, icd9data$eid))
 
-# Generate marker variables of G6PD deficiency diagnosis
+# Generate marker variable of G6PD deficiency diagnosis
 alldata$g6pd <- 0
 alldata[alldata$Participant.ID %in% g6pdids,]$g6pd <- 1
 
