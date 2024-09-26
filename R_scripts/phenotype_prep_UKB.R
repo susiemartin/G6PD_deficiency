@@ -1,6 +1,5 @@
 # Script 2 - extract phenotype data from the UK Biobank and generate variables for case definitions
 # 3 January 2024
-# Run on higher memory requirement
 
 # Load required packages
 library(dplyr)
