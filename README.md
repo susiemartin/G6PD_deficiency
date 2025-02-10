@@ -1,4 +1,4 @@
-# Undiagnosed G6PD deficiency is common in Black individuals in the UK, and contributes to health inequalities in type 2 diabetes diagnosis
+# Undiagnosed G6PD deficiency in Black and Asian individuals is prevalent and contributes to health inequalities in type 2 diabetes diagnosis
 
 This repository contains the electronic health record (EHR) code lists, R scripts and PLINK commands required for analysis of this project, as well as model diagnostic plots for the linear regression models detailed in the **Supplementary Appendix**.
 
