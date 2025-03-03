@@ -1,0 +1,109 @@
+icd,icd_description,hist_poss_flag,other_exc_flag,group,stroke_type
+I21,Acute myocardial infarction,,,MI,
+I21.0,Acute transmural myocardial infarction of anterior wall,,,MI,
+I21.1,Acute transmural myocardial infarction of inferior wall,,,MI,
+I21.2,Acute transmural myocardial infarction of other sites,,,MI,
+I21.3,Acute transmural myocardial infarction of unspecified site,,,MI,
+I21.4,Acute subendocardial myocardial infarction,,,MI,
+I21.9,"Acute myocardial infarction, unspecified",,,MI,
+I22,Subsequent myocardial infarction,1,,MI,
+I22.0,Subsequent myocardial infarction of anterior wall,1,,MI,
+I22.1,Subsequent myocardial infarction of inferior wall,1,,MI,
+I22.8,Subsequent myocardial infarction of other sites,1,,MI,
+I22.9,Subsequent myocardial infarction of unspecified site,1,,MI,
+I23,Certain current complication follow acute myocardial infarct,1,,MI,
+I23.0,Haemopericardium as curr comp folow acut myocard infarct,1,,MI,
+I23.1,Atral sept defect as curr comp folow acut myocardal infarct,1,,MI,
+I23.2,Ventric sep defect as curr comp fol acut myocardal infarc,1,,MI,
+I23.3,Rup cardac wal withou haemopercard as cur comp fol ac MI,1,,MI,
+I23.4,Rup chordae tendinae as curr comp fol acut myocard infarct,1,,MI,
+I23.5,Rup papilary muscle as curr comp fol acute myocard infarct,1,,MI,
+I23.6,Thromb atrium/auric append/vent as curr comp foll acute MI,1,,MI,
+I23.8,Oth current comp following acute myocardial infarction,1,,MI,
+I20.0,Unstable angina,,,Unstableangina,
+G45.0,Vertebro-basilar artery syndrome,1,,Stroke,
+G45.1,Carotid artery syndrome (hemispheric),1,,Stroke,
+G45.2,Multiple and bilateral precerebral artery syndromes,1,,Stroke,
+G46,Vascular syndromes of brain in cerebrovascular diseases,1,,Stroke,
+G46.0,Middle cerebral artery syndrome,1,,Stroke,
+G46.1,Anterior cerebral artery syndrome,1,,Stroke,
+G46.2,Posterior cerebral artery syndrome,1,,Stroke,
+G46.3,Brain stem stroke syndrome,1,,Stroke,
+G46.4,Cerebellar stroke syndrome,1,,Stroke,
+G46.5,Pure motor lacunar syndrome,1,,Stroke,
+G46.6,Pure sensory lacunar syndrome,1,,Stroke,
+G46.7,Other lacunar syndromes,1,,Stroke,
+G46.8,Oth vascular syndromes of brain in cerebrovascular dis,1,,Stroke,
+I60,Subarachnoid haemorrhage,,1,Stroke,subarach
+I60.0,Subarachnoid haemorrhage from carotid siphon and bifurcation,,1,Stroke,subarach
+I60.1,Subarachnoid haemorrhage from middle cerebral artery,,1,Stroke,subarach
+I60.2,Subarachnoid haemorrhage from anterior communicating artery,,1,Stroke,subarach
+I60.3,Subarachnoid haemorrhage from posterior communicating artery,,1,Stroke,subarach
+I60.4,Subarachnoid haemorrhage from basilar artery,,1,Stroke,subarach
+I60.5,Subarachnoid haemorrhage from vertebral artery,,1,Stroke,subarach
+I60.6,Subarachnoid haemorrhage from other intracranial arteries,,1,Stroke,subarach
+I60.7,"Subarachnoid haemorrhage from intracranial artery, unspec",,1,Stroke,subarach
+I60.8,Other subarachnoid haemorrhage,,1,Stroke,subarach
+I60.9,"Subarachnoid haemorrhage, unspecified",,1,Stroke,subarach
+I61,Intracerebral haemorrhage,,,Stroke,Haem
+I61.0,"Intracerebral haemorrhage in hemisphere, subcortical",,,Stroke,Haem
+I61.1,"Intracerebral haemorrhage in hemisphere, cortical",,,Stroke,Haem
+I61.2,"Intracerebral haemorrhage in hemisphere, unspecified",,,Stroke,Haem
+I61.3,Intracerebral haemorrhage in brain stem,,,Stroke,Haem
+I61.4,Intracerebral haemorrhage in cerebellum,,,Stroke,Haem
+I61.5,"Intracerebral haemorrhage, intraventricular",,,Stroke,Haem
+I61.6,"Intracerebral haemorrhage, multiple localized",,,Stroke,Haem
+I61.8,Other intracerebral haemorrhage,,,Stroke,Haem
+I61.9,"Intracerebral haemorrhage, unspecified",,,Stroke,Haem
+I62,Other nontraumatic intracranial haemorrhage,,,Stroke,Haem
+I62.0,Subdural haemorrhage (acute)(nontraumatic),,1,Stroke,Subdural
+I62.1,Nontraumatic extradural haemorrhage,,1,Stroke,Extradural
+I62.9,"Intracranial haemorrhage (nontraumatic), unspecified",,1,Stroke,Intracranial
+I63,Cerebral infarction,,,Stroke,Isch
+I63.0,Cerebral infarct due to thrombosis of precerebral arteries,,,Stroke,Isch
+I63.1,Cerebral infarction due to embolism of precerebral arteries,,,Stroke,Isch
+I63.2,Cereb infarct due unsp occlusion or stenos precerebrl arts,,,Stroke,Isch
+I63.3,Cerebral infarction due to thrombosis of cerebral arteries,,,Stroke,Isch
+I63.4,Cerebral infarction due to embolism of cerebral arteries,,,Stroke,Isch
+I63.5,Cerebrl infarct due unspec occlusion or stenos cerebrl arts,,,Stroke,Isch
+I63.6,"Cereb infarct due cerebral venous thrombosis, nonpyogenic",,,Stroke,Isch
+I63.8,Other cerebral infarction,,,Stroke,Isch
+I63.9,"Cerebral infarction, unspecified",,,Stroke,Isch
+I64,"Stroke, not specified as haemorrhage or infarction",,,Stroke,NOS
+I67.0,"Dissection of cerebral arteries, nonruptured",,1,Stroke,
+I67.1,"Cerebral aneurysm, nonruptured",,1,Stroke,
+I67.3,Progressive vascular leukoencephalopathy,,1,Stroke,
+I67.4,Hypertensive encephalopathy,,1,Stroke,
+I67.5,Moyamoya disease,,1,Stroke,
+I67.6,Nonpyogenic thrombosis of intracranial venous system,,1,Stroke,
+I67.7,"Cerebral arteritis, not elsewhere classified",,1,Stroke,
+I67.8,Other specified cerebrovascular diseases,,1,Stroke,
+I67.9,"Cerebrovascular disease, unspecified",,1,Stroke,
+I68,Cerebrovascular disorders in diseases classified elsewhere,,1,Stroke,
+I68.0,Cerebral amyloid angiopathy,,1,Stroke,
+I68.1,Cerebral arteritis in infect & parasit dis classif elsewh,,1,Stroke,
+I68.2,Cerebral arteritis in other diseases classified elsewhere,,1,Stroke,
+I68.8,Other cerebrovascular disorders in diseases EC,,1,Stroke,
+I69,Sequelae of cerebrovascular disease,1,,Stroke,
+I69.0,Sequelae of subarachnoid haemorrhage,,1,Stroke,
+I69.1,Sequelae of intracerebral haemorrhage,1,,Stroke,
+I69.2,Sequelae of other nontraumatic intracranial haemorrhage,,1,Stroke,
+I69.3,Sequelae of cerebral infarction,1,,Stroke,
+I69.4,"Sequelae of stroke, not spec as haemorrhage or infarction",1,,Stroke,
+I69.8,Sequelae of other and unspecified cerebrovascular diseases,1,,Stroke,
+I11.0,Hypertensive heart disease with (congestive) heart failure,,,heartfailure,
+I13.0,Hypertens heart and renal dis with (conges) heart failure,,,heartfailure,
+I13.2,Hyper heart and renal dis both (cong) heart and renal fail,,,heartfailure,
+I50,Heart failure,,,heartfailure,
+I50.0,Congestive heart failure,,,heartfailure,
+I50.1,Left ventricular failure,,,heartfailure,
+I50.9,"Heart failure, unspecified",,,heartfailure,
+I48.0 ,Paroxysmal atrial fibrillation,,,afib,
+I48.1 ,Persistent atrial fibrillation,1,,afib,
+I48.2 ,Chronic atrial fibrillation,1,,afib,
+I48.3,Typical atrial flutter,,,afib,
+I48.4 ,Atypical atrial flutter,,,afib,
+I48.9 ,Unspecified atrial fibrillation and atrial flutter,,,afib,
+I48.91,Unspecified atrial fibrillation,,,afib,
+I48.92 ,Unspecified atrial flutter,,,afib,
+I48,,,,afib,
