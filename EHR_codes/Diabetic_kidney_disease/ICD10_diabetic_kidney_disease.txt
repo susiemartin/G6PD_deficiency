@@ -1,0 +1,21 @@
+ICD10	Term
+E08.2	Diabetes mellitus due to underlying condition with kidney complications
+E08.21	Diabetes mellitus due to underlying condition with diabetic nephropathy
+E08.22	Diabetes mellitus due to underlying condition with diabetic chronic kidney disease
+E08.29	Diabetes mellitus due to underlying condition with other diabetic kidney complication
+E09.2	Drug or chemical induced diabetes mellitus with kidney complications
+E09.21	Drug or chemical induced diabetes mellitus with diabetic nephropathy
+E09.22	Drug or chemical induced diabetes mellitus with diabetic chronic kidney disease
+E09.29	Drug or chemical induced diabetes mellitus with other diabetic kidney complication
+E10.2	Type 1 diabetes mellitus with kidney complications
+E10.21	Type 1 diabetes mellitus with diabetic nephropathy
+E10.22	Type 1 diabetes mellitus with diabetic chronic kidney disease
+E10.29	Type 1 diabetes mellitus with other diabetic kidney complication
+E11.2	Type 2 diabetes mellitus with kidney complications
+E11.21	Type 2 diabetes mellitus with diabetic nephropathy
+E11.22	Type 2 diabetes mellitus with diabetic chronic kidney disease
+E11.29	Type 2 diabetes mellitus with other diabetic kidney complication
+E13.2	Other specified diabetes mellitus with kidney complications
+E13.21	Other specified diabetes mellitus with diabetic nephropathy
+E13.22	Other specified diabetes mellitus with diabetic chronic kidney disease
+E13.29	Other specified diabetes mellitus with other diabetic kidney complication
