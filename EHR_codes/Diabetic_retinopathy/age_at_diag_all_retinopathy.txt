@@ -1,2 +1,0 @@
-Code	Description	Specific
-5901	Age when diabetes-related eye disease diagnosed	0
