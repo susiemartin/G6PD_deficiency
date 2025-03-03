@@ -1,0 +1,2 @@
+ICD10	Term
+Z79.4	Long term (current) use of insulin

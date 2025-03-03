@@ -1,0 +1,59 @@
+Name	Drug substance	Class1	Class2
+abasaglar	insulin	insulin	
+actraphane	insulin	insulin	
+actrapid	insulin	insulin	
+apidra	insulin	insulin	
+aspart 	insulin	insulin	
+biphasic	insulin	insulin	
+degludec	insulin	insulin	
+detemir	insulin	insulin	
+endopancrine	insulin	insulin	
+exubera	insulin	insulin	
+fiasp	insulin	insulin	
+glargine	insulin	insulin	
+glulisine	insulin	insulin	
+h-tronin	insulin	insulin	
+humaject	insulin	insulin	
+humalog	insulin	insulin	
+humulin	insulin	insulin	
+hypurin	insulin	insulin	
+initard	insulin	insulin	
+innolet	insulin	insulin	
+insulat	insulin	insulin	
+insulatard	insulin	insulin	
+insulin	insulin	insulin	
+insuman	insulin	insulin	
+isophane	insulin	insulin	
+lantus	insulin	insulin	
+lentard	insulin	insulin	
+levemir	insulin	insulin	
+lispro	insulin	insulin	
+mixtard	insulin	insulin	
+monophane	insulin	insulin	
+monotard	insulin	insulin	
+neulente	insulin	insulin	
+neuphane	insulin	insulin	
+neusulin	insulin	insulin	
+novo rapit	insulin	insulin	
+novolet	insulin	insulin	
+novomix	insulin	insulin	
+novorapid	insulin	insulin	
+penmix	insulin	insulin	
+protamine zinc	insulin	insulin	
+protaphane	insulin	insulin	
+pur-in	insulin	insulin	
+quicksol	insulin	insulin	
+rapitard	insulin	insulin	
+semglee	insulin	insulin	
+semilente	insulin	insulin	
+semitard	insulin	insulin	
+tempulin	insulin	insulin	
+toujeo	insulin	insulin	
+tresiba	insulin	insulin	
+ultralente	insulin	insulin	
+ultratard	insulin	insulin	
+velasulin	insulin	insulin	
+velosulin	insulin	insulin	
+xultophy	insulin and liraglutide	GLP1Ra	insulin
+zinc lente	insulin	insulin	
+zinc suspension	insulin	insulin	
