@@ -1,4 +1,0 @@
-ICD10	Term
-D55.0	Anemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency
-D75.A	Glucose-6-phosphate dehydrogenase (G6PD) deficiency without anemia
-E74.01	von Gierke disease

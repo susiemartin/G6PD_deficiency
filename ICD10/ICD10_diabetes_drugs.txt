@@ -1,4 +1,0 @@
-ICD10	Term
-Z79.4	Long term (current) use of insulin
-Z79.84	Long term (current) use of oral hypoglycemic drugs
-Z79.85	Long-term (current) use of injectable non-insulin antidiabetic drugs

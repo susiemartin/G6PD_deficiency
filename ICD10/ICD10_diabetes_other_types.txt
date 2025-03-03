@@ -1,5 +1,0 @@
-Code	Description
-E12	Malnutrition-related diabetes
-E13	Other specified diabetes
-O24	Diabetes mellitus in pregnancy
-P702	Neonatal diabetes mellitus
