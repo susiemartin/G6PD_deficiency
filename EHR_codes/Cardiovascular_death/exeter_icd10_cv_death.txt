@@ -1,0 +1,2 @@
+ICD10	Term description
+I	Diseases of the circulatory system
