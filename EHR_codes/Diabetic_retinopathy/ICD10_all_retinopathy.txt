@@ -1,0 +1,376 @@
+ICD10	Term
+E08.3	Diabetes mellitus due to underlying condition with ophthalmic complications
+E08.31	Diabetes mellitus due to underlying condition with unspecified diabetic retinopathy
+E08.311	…... with macular edema
+E08.319	…... without macular edema
+E08.32	Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy
+E08.321	Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy with macular edema
+E08.3211	…... right eye
+E08.3212	…... left eye
+E08.3213	…... bilateral
+E08.3219	…... unspecified eye
+E08.329	Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy without macular edema
+E08.3291	…... right eye
+E08.3292	…... left eye
+E08.3293	…... bilateral
+E08.3299	…... unspecified eye
+E08.33	Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy
+E08.331	Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy with macular edema
+E08.3311	…… right eye
+E08.3312	…... left eye
+E08.3313	…... bilateral
+E08.3319	…... unspecified eye
+E08.339	Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy without macular edema
+E08.3391	…... right eye
+E08.3392	…... left eye
+E08.3393	…… bilateral
+E08.3399	…... unspecified eye
+E08.34	Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy
+E08.341	Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy with macular edema
+E08.3411	…... right eye
+E08.3412	…... left eye
+E08.3413	…... bilateral
+E08.3419	…... unspecified eye
+E08.349	Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy without macular edema
+E08.3491	…... right eye
+E08.3492	…... left eye
+E08.3493	…... bilateral
+E08.3499	…... unspecified eye
+E08.35	Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy
+E08.351	Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with macular edema
+E08.3511	…... right eye
+E08.3512	…... left eye
+E08.3513	…... bilateral
+E08.3519	…... unspecified eye
+E08.352	Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with traction retinal detachment involving the macula
+E08.3521	…... right eye
+E08.3522	…... left eye
+E08.3523	…... bilateral
+E08.3529	…... unspecified eye
+E08.353	Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with traction retinal detachment not involving the macula
+E08.3531	…... right eye
+E08.3532	…... left eye
+E08.3533	…... bilateral
+E08.3539	…... unspecified eye
+E08.354	Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment
+E08.3541	…... right eye
+E08.3542	…... left eye
+E08.3543	…... bilateral
+E08.3549	…... unspecified eye
+E08.355	Diabetes mellitus due to underlying condition with stable proliferative diabetic retinopathy
+E08.3551	…... right eye
+E08.3552	…... left eye
+E08.3553	…... bilateral
+E08.3559	…... unspecified eye
+E08.359	Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy without macular edema
+E08.3591	…... right eye
+E08.3592	…... left eye
+E08.3593	…... bilateral
+E08.3599	…... unspecified eye
+E08.36	Diabetes mellitus due to underlying condition with diabetic cataract
+E08.37	Diabetes mellitus due to underlying condition with diabetic macular edema, resolved following treatment
+E08.37X1	…... right eye
+E08.37X2	…... left eye
+E08.37X3	…... bilateral
+E08.37X9	…... unspecified eye
+E08.39	Diabetes mellitus due to underlying condition with other diabetic ophthalmic complication
+E09.3	Drug or chemical induced diabetes mellitus with ophthalmic complications
+E09.31	Drug or chemical induced diabetes mellitus with unspecified diabetic retinopathy
+E09.311	…... with macular edema
+E09.319	…... without macular edema
+E09.32	Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy
+E09.321	Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema
+E09.3211	…... right eye
+E09.3212	…... left eye
+E09.3213	…... bilateral
+E09.3219	…... unspecified eye
+E09.329	Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema
+E09.3291	…... right eye
+E09.3292	…... left eye
+E09.3293	…... bilateral
+E09.3299	…... unspecified eye
+E09.33	Drug or chemical induced diabetes mellitus with moderate nonproliferative diabetic retinopathy
+E09.331	Drug or chemical induced diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema
+E09.3311	…... right eye
+E09.3312	…... left eye
+E09.3313	…... bilateral
+E09.3319	…... unspecified eye
+E09.339	Drug or chemical induced diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema
+E09.3391	…... right eye
+E09.3392	…... left eye
+E09.3393	…... bilateral
+E09.3399	…... unspecified eye
+E09.34	Drug or chemical induced diabetes mellitus with severe nonproliferative diabetic retinopathy
+E09.341	Drug or chemical induced diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema
+E09.3411	…... right eye
+E09.3412	…... left eye
+E09.3413	…... bilateral
+E09.3419	…... unspecified eye
+E09.349	Drug or chemical induced diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema
+E09.3491	…… right eye
+E09.3492	…... left eye
+E09.3493	…... bilateral
+E09.3499	…... unspecified eye
+E09.35	Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy
+E09.351	Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with macular edema
+E09.3511	…... right eye
+E09.3512	…... left eye
+E09.3513	…... bilateral
+E09.3519	…... unspecified eye
+E09.352	Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula
+E09.3521	…... right eye
+E09.3522	…... left eye
+E09.3523	…... bilateral
+E09.3529	…... unspecified eye
+E09.353	Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula
+E09.3531	…... right eye
+E09.3532	…... left eye
+E09.3533	…... bilateral
+E09.3539	…... unspecified eye
+E09.354	Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment
+E09.3541	…... right eye
+E09.3542	…... left eye
+E09.3543	…... bilateral
+E09.3549	…... unspecified eye
+E09.355	Drug or chemical induced diabetes mellitus with stable proliferative diabetic retinopathy
+E09.3551	…... right eye
+E09.3552	…... left eye
+E09.3553	…... bilateral
+E09.3559	…... unspecified eye
+E09.359	Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy without macular edema
+E09.3591	…... right eye
+E09.3592	…... left eye
+E09.3593	…... bilateral
+E09.3599	…... unspecified eye
+E09.36	Drug or chemical induced diabetes mellitus with diabetic cataract
+E09.37	Drug or chemical induced diabetes mellitus with diabetic macular edema, resolved following treatment
+E09.37X1	…... right eye
+E09.37X2	…... left eye
+E09.37X3	…... bilateral
+E09.37X9	…... unspecified eye
+E09.39	Drug or chemical induced diabetes mellitus with other diabetic ophthalmic complication
+E10.3	Type 1 diabetes mellitus with ophthalmic complications
+E10.31	Type 1 diabetes mellitus with unspecified diabetic retinopathy
+E10.311	…... with macular edema
+E10.319	…... without macular edema
+E10.32	Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy
+E10.321	Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema
+E10.3211	…... right eye
+E10.3212	…... left eye
+E10.3213	…... bilateral
+E10.3219	…... unspecified eye
+E10.329	Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema
+E10.3291	…... right eye
+E10.3292	…... left eye
+E10.3293	…… bilateral
+E10.3299	…… unspecified eye
+E10.33	Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy
+E10.331	Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema
+E10.3311	…... right eye
+E10.3312	…... left eye
+E10.3313	…... bilateral
+E10.3319	…... unspecified eye
+E10.339	Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema
+E10.3391	…... right eye
+E10.3392	…... left eye
+E10.3393	…... bilateral
+E10.3399	…... unspecified eye
+E10.34	Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy
+E10.341	Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema
+E10.3411	…... right eye
+E10.3412	…... left eye
+E10.3413	…... bilateral
+E10.3419	…... unspecified eye
+E10.349	Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema
+E10.3491	…... right eye
+E10.3492	…... left eye
+E10.3493	…... bilateral
+E10.3499	…... unspecified eye
+E10.35	Type 1 diabetes mellitus with proliferative diabetic retinopathy
+E10.351	Type 1 diabetes mellitus with proliferative diabetic retinopathy with macular edema
+E10.3511	…... right eye
+E10.3512	…... left eye
+E10.3513	…... bilateral
+E10.3519	…... unspecified eye
+E10.352	Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula
+E10.3521	…... right eye
+E10.3522	…... left eye
+E10.3523	…... bilateral
+E10.3529	…... unspecified eye
+E10.353	Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula
+E10.3531	…... right eye
+E10.3532	…... left eye
+E10.3533	…... bilateral
+E10.3539	…... unspecified eye
+E10.354	Type 1 diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment
+E10.3541	…... right eye
+E10.3542	…... left eye
+E10.3543	…... bilateral
+E10.3549	…... unspecified eye
+E10.355	Type 1 diabetes mellitus with stable proliferative diabetic retinopathy
+E10.3551	…... right eye
+E10.3552	…... left eye
+E10.3553	…... bilateral
+E10.3559	…... unspecified eye
+E10.359	Type 1 diabetes mellitus with proliferative diabetic retinopathy without macular edema
+E10.3591	…... right eye
+E10.3592	…... left eye
+E10.3593	…... bilateral
+E10.3599	…... unspecified eye
+E10.36	Type 1 diabetes mellitus with diabetic cataract
+E10.37	Type 1 diabetes mellitus with diabetic macular edema, resolved following treatment
+E10.37X1	…... right eye
+E10.37X2	…... left eye
+E10.37X3	…... bilateral
+E10.37X9	…... unspecified eye
+E10.39	Type 1 diabetes mellitus with other diabetic ophthalmic complication
+E11.3	Type 2 diabetes mellitus with ophthalmic complications
+E11.31	Type 2 diabetes mellitus with unspecified diabetic retinopathy
+E11.311	…… with macular edema
+E11.319	…… without macular edema
+E11.32	Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy
+E11.321	Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema
+E11.3211	…... right eye
+E11.3212	…... left eye
+E11.3213	…... bilateral
+E11.3219	…... unspecified eye
+E11.329	Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema
+E11.3291	…... right eye
+E11.3292	…... left eye
+E11.3293	…... bilateral
+E11.3299	…... unspecified eye
+E11.33	Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy
+E11.331	Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema
+E11.3311	…... right eye
+E11.3312	…... left eye
+E11.3313	…... bilateral
+E11.3319	…... unspecified eye
+E11.339	Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema
+E11.3391	…... right eye
+E11.3392	…... left eye
+E11.3393	…... bilateral
+E11.3399	…... unspecified eye
+E11.34	Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy
+E11.341	Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema
+E11.3411	…... right eye
+E11.3412	…... left eye
+E11.3413	…... bilateral
+E11.3419	…... unspecified eye
+E11.349	Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema
+E11.3491	…... right eye
+E11.3492	…... left eye
+E11.3493	…... bilateral
+E11.3499	…... unspecified eye
+E11.35	Type 2 diabetes mellitus with proliferative diabetic retinopathy
+E11.351	Type 2 diabetes mellitus with proliferative diabetic retinopathy with macular edema
+E11.3511	…... right eye
+E11.3512	…... left eye
+E11.3513	…... bilateral
+E11.3519	…... unspecified eye
+E11.352	Type 2 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula
+E11.3521	…... right eye
+E11.3522	…... left eye
+E11.3523	…... bilateral
+E11.3529	…... unspecified eye
+E11.353	Type 2 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula
+E11.3531	…... right eye
+E11.3532	…... left eye
+E11.3533	…... bilateral
+E11.3539	…... unspecified eye
+E11.354	Type 2 diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment
+E11.3541	…... right eye
+E11.3542	…... left eye
+E11.3543	…... bilateral
+E11.3549	…... unspecified eye
+E11.355	Type 2 diabetes mellitus with stable proliferative diabetic retinopathy
+E11.3551	…... right eye
+E11.3552	…... left eye
+E11.3553	…... bilateral
+E11.3559	…... unspecified eye
+E11.359	Type 2 diabetes mellitus with proliferative diabetic retinopathy without macular edema
+E11.3591	…... right eye
+E11.3592	…... left eye
+E11.3593	…... bilateral
+E11.3599	…... unspecified eye
+E11.36	Type 2 diabetes mellitus with diabetic cataract
+E11.37	Type 2 diabetes mellitus with diabetic macular edema, resolved following treatment
+E11.37X1	…... right eye
+E11.37X2	…... left eye
+E11.37X3	…... bilateral
+E11.37X9	…... unspecified eye
+E11.39	Type 2 diabetes mellitus with other diabetic ophthalmic complication
+E13.3	Other specified diabetes mellitus with ophthalmic complications
+E13.31	Other specified diabetes mellitus with unspecified diabetic retinopathy
+E13.311	…… with macular edema
+E13.319	…… without macular edema
+E13.32	Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy
+E13.321	Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema
+E13.3211	…... right eye
+E13.3212	…... left eye
+E13.3213	…... bilateral
+E13.3219	…... unspecified eye
+E13.329	Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema
+E13.3291	…... right eye
+E13.3292	…... left eye
+E13.3293	…... bilateral
+E13.3299	…... unspecified eye
+E13.33	Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy
+E13.331	Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema
+E13.3311	…... right eye
+E13.3312	…... left eye
+E13.3313	…... bilateral
+E13.3319	…... unspecified eye
+E13.339	Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema
+E13.3391	…... right eye
+E13.3392	…... left eye
+E13.3393	…... bilateral
+E13.3399	…... unspecified eye
+E13.34	Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy
+E13.341	Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema
+E13.3411	…... right eye
+E13.3412	…... left eye
+E13.3413	…... bilateral
+E13.3419	…... unspecified eye
+E13.349	Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema
+E13.3491	…... right eye
+E13.3492	…... left eye
+E13.3493	…... bilateral
+E13.3499	…... unspecified eye
+E13.35	Other specified diabetes mellitus with proliferative diabetic retinopathy
+E13.351	Other specified diabetes mellitus with proliferative diabetic retinopathy with macular edema
+E13.3511	…... right eye
+E13.3512	…... left eye
+E13.3513	…... bilateral
+E13.3519	…... unspecified eye
+E13.352	Other specified diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula
+E13.3521	…... right eye
+E13.3522	…... left eye
+E13.3523	…... bilateral
+E13.3529	…... unspecified eye
+E13.353	Other specified diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula
+E13.3531	…... right eye
+E13.3532	…... left eye
+E13.3533	…... bilateral
+E13.3539	…... unspecified eye
+E13.354	Other specified diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment
+E13.3541	…... right eye
+E13.3542	…... left eye
+E13.3543	…... bilateral
+E13.3549	…... unspecified eye
+E13.355	Other specified diabetes mellitus with stable proliferative diabetic retinopathy
+E13.3551	…... right eye
+E13.3552	…... left eye
+E13.3553	…... bilateral
+E13.3559	…... unspecified eye
+E13.359	Other specified diabetes mellitus with proliferative diabetic retinopathy without macular edema
+E13.3591	…... right eye
+E13.3592	…... left eye
+E13.3593	…... bilateral
+E13.3599	…... unspecified eye
+E13.36	Other specified diabetes mellitus with diabetic cataract
+E13.37	Other specified diabetes mellitus with diabetic macular edema, resolved following treatment
+E13.37X1	…... right eye
+E13.37X2	…... left eye
+E13.37X3	…... bilateral
+E13.37X9	…... unspecified eye
+E13.39	Other specified diabetes mellitus with other diabetic ophthalmic complication

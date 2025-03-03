@@ -1,0 +1,25 @@
+read_2	Term
+2BB7.	O/E - retinal vascular prolif.
+2BBk.	O/E - right eye stable treated proliferative diabetic retinopathy
+2BBl.	O/E - left eye stable treated proliferative diabetic retinopathy
+2BBL.	O/E - diabetic maculopathy present both eyes
+2BBo.	O/E - sight threatening diabetic retinopathy
+2BBr.	Impaired vision due to diabetic retinopathy
+2BBR.	O/E - right eye preproliferative diabetic retinopathy
+2BBS.	O/E - left eye preproliferative diabetic retinopathy
+2BBT.	O/E - right eye proliferative diabetic retinopathy
+2BBV.	O/E - left eye proliferative diabetic retinopathy
+2BBW.	O/E - right eye diabetic maculopathy
+2BBX.	O/E - left eye diabetic maculopathy
+2BBY.	O/E - referable retinopathy
+C10EP	Type 1 diabetes mellitus with exudative maculopathy
+C10FQ	Type 2 diabetes mellitus with exudative maculopathy
+F4201	Proliferative diabetic retinopathy
+F4202	Preproliferative diabetic retinopathy
+F4203	Advanced diabetic maculopathy
+F4204	Diabetic maculopathy
+F4205	Advanced diabetic retinal disease
+F4206	Non proliferative diabetic retinopathy
+F4207	High risk proliferative diabetic retinopathy
+F4208	High risk non proliferative diabetic retinopathy
+F422z	Proliferative retinopathy NOS

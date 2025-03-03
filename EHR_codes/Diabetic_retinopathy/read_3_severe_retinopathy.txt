@@ -1,0 +1,57 @@
+read_3	Term
+2BB7.	O/E - retinal vascular prolif.
+2BBk.	O/E - right eye stable treated proliferative diabetic retinopathy
+2BBl.	O/E - left eye stable treated proliferative diabetic retinopathy
+2BBL.	O/E - diabetic maculopathy present both eyes
+2BBo.	O/E - sight threatening diabetic retinopathy
+2BBr.	Impaired vision due to diabetic retinopathy
+2BBR.	O/E - right eye preproliferative diabetic retinopathy
+2BBS.	O/E - left eye preproliferative diabetic retinopathy
+2BBT.	O/E - right eye proliferative diabetic retinopathy
+2BBV.	O/E - left eye proliferative diabetic retinopathy
+2BBW.	O/E - right eye diabetic maculopathy
+2BBX.	O/E - left eye diabetic maculopathy
+2BBY.	O/E - referable retinopathy
+C10EP	Type 1 diabetes mellitus with exudative maculopathy
+C10FQ	Type 2 diabetes mellitus with exudative maculopathy
+F4200	Background diabetic retinopathy
+F4201	PDR - Proliferative diabetic retinopathy
+F4202	Preproliferative diabetic retinopathy
+F4203	Advanced diabetic maculopathy
+F4204	Diabetic maculopathy
+F4205	Advanced diabetic retinal disease
+F4206	Non proliferative diabetic retinopathy
+F4207	High risk proliferative diabetic retinopathy
+F4208	High risk non proliferative diabetic retinopathy
+F422z	Proliferative retinopathy NOS
+X00dF	Visually threatening diabetic retinopathy
+X00dG	Diabetic maculopathy
+X00dH	Proliferative diabetic retinopathy new vessels on disc
+X00dI	Proliferative diabetic retinopathy with new vessels elsewhere than on disc
+XaD2T	Advanced diabetic retinal disease
+XaE5T	Mild non proliferative diabetic retinopathy
+XaE5U	Moderate non proliferative diabetic retinopathy
+XaE5V	Severe non proliferative diabetic retinopathy
+XaE5W	Proliferative diabetic retinopathy - non high risk
+XaE5X	High risk proliferative diabetic retinopathy
+XaE5Y	Inactive proliferative diabetic retinopathy
+XaE5Z	Proliferative diabetic retinopathy - iris neovascularisation
+XaEVO	Diffuse diabetic maculopathy
+XaEVP	Focal diabetic maculopathy
+XaEVS	Ischaemic diabetic maculopathy
+XaEVT	Mixed diabetic maculopathy
+XaIP5	Non proliferative diabetic retinopathy
+XaIPk	O/E - diabetic maculopathy present both eyes
+XaIW8	High risk non proliferative diabetic retinopathy
+XaJOi	O/E - right eye preproliferative diabetic retinopathy
+XaJOj	O/E - left eye preproliferative diabetic retinopathy
+XaJOk	O/E - right eye proliferative diabetic retinopathy
+XaJOl	O/E - left eye proliferative diabetic retinopathy
+XaJOn	O/E - right eye diabetic maculopathy
+XaJOo	O/E - left eye diabetic maculopathy
+XaJQp	Type 2 diabetes mellitus with exudative maculopathy
+XaJSr	Type 1 diabetes mellitus with exudative maculopathy
+XaKcS	O/E - sight threatening diabetic retinopathy
+XaKDG	O/E - right eye stable treated proliferative diabetic retinopathy
+XaKDH	O/E - left eye stable treated proliferative diabetic retinopathy
+XaPen	Impaired vision due to diabetic retinopathy
