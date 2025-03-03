@@ -1,2 +1,0 @@
-Code	Description	Specific
-5890	Which eye(s) affected by diabetes-related eye disease	0
