@@ -1,3 +1,0 @@
-Code	Description
-1065	hypertension
-1072	essential hypertension
