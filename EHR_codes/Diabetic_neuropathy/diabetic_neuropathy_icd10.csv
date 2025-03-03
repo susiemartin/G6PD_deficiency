@@ -1,0 +1,41 @@
+﻿Code,Description
+E08.4,Diabetes mellitus due to underlying condition with neurological complications
+E08.40,"Diabetes mellitus due to underlying condition with diabetic neuropathy, unspecified"
+E08.41,"Diabetes mellitus due to underlying condition with diabetic neuropathy, unspecified"
+E08.42,Diabetes mellitus due to underlying condition with diabetic polyneuropathy
+E08.43,Diabetes mellitus due to underlying condition with diabetic autonomic (poly)neuropathy
+E08.44,Diabetes mellitus due to underlying condition with diabetic amyotrophy
+E08.49,Diabetes mellitus due to underlying condition with other diabetic neurological complication
+E09.4,Drug or chemical induced diabetes mellitus with neurological complications
+E09.40,"…… with diabetic neuropathy, unspecified"
+E09.41,"…… with diabetic neuropathy, unspecified"
+E09.42,…… with diabetic polyneuropathy
+E09.43,…… with diabetic autonomic (poly)neuropathy
+E09.44,…… with diabetic amyotrophy
+E09.49,…… with other diabetic neurological complication
+E10.4,Type 1 diabetes mellitus with neurological complications
+E10.40,"Type 1 diabetes mellitus with diabetic neuropathy, unspecified"
+E10.41,Type 1 diabetes mellitus with diabetic mononeuropathy
+E10.42,Type 1 diabetes mellitus with diabetic polyneuropathy
+E10.43,Type 1 diabetes mellitus with diabetic autonomic (poly)neuropathy
+E10.44,Type 1 diabetes mellitus with diabetic amyotrophy
+E10.49,Type 1 diabetes mellitus with other diabetic neurological complication
+E11.4,Type 2 diabetes mellitus with neurological complications
+E11.40,"Type 2 diabetes mellitus with diabetic neuropathy, unspecified"
+E11.41,Type 2 diabetes mellitus with diabetic mononeuropathy
+E11.42,Type 2 diabetes mellitus with diabetic polyneuropathy
+E11.43,Type 2 diabetes mellitus with diabetic autonomic (poly)neuropathy
+E11.44,Type 2 diabetes mellitus with diabetic amyotrophy
+E11.49,Type 2 diabetes mellitus with other diabetic neurological complication
+E13.4,Other specified diabetes mellitus with neurological complications
+E13.40,"Other specified diabetes mellitus with diabetic neuropathy, unspecified"
+E13.41,Other specified diabetes mellitus with diabetic mononeuropathy
+E13.42,Other specified diabetes mellitus with diabetic polyneuropathy
+E13.43,Other specified diabetes mellitus with diabetic autonomic (poly)neuropathy
+E13.44,Other specified diabetes mellitus with diabetic amyotrophy
+E13.49,Other specified diabetes mellitus with other diabetic neurological complication
+G59.0,Diabetic mononeuropathy
+G63.2,Diabetic polyneuropathy
+G590,Diabetic mononeuropathy
+G632,Diabetic polyneuropathy
+M142,Diabetic arthropathy
