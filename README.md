@@ -10,7 +10,7 @@ EHR code lists for all clinical phenotypes used in the analysis are given in ICD
 [^2]: Green, H.G. UKBB Health Care Records, <https://github.com/hdg204/UKBB> (2024).
 
 EHR code lists used here that were previously published elsewhere are listed below with references:
-- **20002_T2D.txt**, **20002_diabetes.txt**, **20003_diabetes_meds.txt**, **read_2_diabetes_diagnosis.txt**, **read_2_diabetes_drugs.txt**, **read_2_diabetes_other_types.txt**, **read_2_diabetes_qof.txt**, **read_3_diabetes_diagnosis.txt**, **read_3_diabetes_other_types.txt**, **read_3_diabetes_qof.txt**, **SNOMED_diabetes.csv** - from Young et al.[^3,4] SNOMED_diabetes.csv contains the SNOMED codes for the ‘DM_COD’ section of the v44 Quality and Outcomes Framework (QOF)[^5].
+- **20002_T2D.txt**, **20002_diabetes.txt**, **20003_diabetes_meds.txt**, **read_2_diabetes_diagnosis.txt**, **read_2_diabetes_drugs.txt**, **read_2_diabetes_other_types.txt**, **read_2_diabetes_qof.txt**, **read_3_diabetes_diagnosis.txt**, **read_3_diabetes_other_types.txt**, **read_3_diabetes_qof.txt**, **SNOMED_diabetes.csv** - from Young et al.[^3;4] SNOMED_diabetes.csv contains the SNOMED codes for the ‘DM_COD’ section of the v44 Quality and Outcomes Framework (QOF)[^5].
 - **MULTIPLY_Snomed_T2D.csv** - from Eto et al.[^6]
 - **read_codes_pregnancy_Minassian_et_al.txt** - from Minassian et al.[^7]
 
