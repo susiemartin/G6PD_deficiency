@@ -2,10 +2,12 @@
 
 This repository contains the electronic health record (EHR) code lists, R scripts and PLINK commands required for analysis for Martin et al. (2025)[^1], as well as model diagnostic plots for the linear regression models detailed in the **Supplementary Appendix**.
 
-[^1]: Susan Martin, Miriam Samuel, Daniel Stow, Alys M. Ridsdale, Ji Chen, Katherine G. Young, Harry D. Green, Genes & Health Research Team, Andrew T. Hattersley, Veline L’Esperance, Trevelyan J. McKinley, Sarah Finer and Inês Barroso. Undiagnosed G6PD deficiency in Black and Asian individuals is prevalent and contributes to health inequalities in type 2 diabetes diagnosis and complications. Diabetes Care, (in-press), 2025.
+[^1]: Martin, S., Samuel, M., Stow, D., Ridsdale, A.M., Chen, J., Young, K.G., Green, H.D., Genes & Health Research Team, Hattersley, A.T., L’Esperance, V., McKinley, T.J., Finer, S. & Barroso, I. Undiagnosed G6PD deficiency in Black and Asian individuals is prevalent and contributes to health inequalities in type 2 diabetes diagnosis and complications. Diabetes Care, (in-press), 2025.
 
 ## EHR code lists for clinical phenotype defintions
-EHR code lists for all clinical phenotypes used in the analysis are given in read v2, read v3, ICD-9, ICD-10 and SNOMED format, as well as self-reported definitions from the UK Biobank 20002 and 20003 fields. For the UK Biobank, EHR data was curated from assessment centre interview (self-reported), primary care (read v2 and v3 coded) and secondary care (ICD-9 and ICD-10 coded) sources<sup>1</sup>. Details of the UK Biobank self-reported fields, assessment centre visits and values used to define each phenotype are given in **UKB_phenotype_definitions.xlsx**. For Genes & Health, EHR data was curated from primary care (SNOMED coded) and secondary care (ICD-10 coded) sources, in accordance with the type of data available.
+EHR code lists for all clinical phenotypes used in the analysis are given in ICD-9, ICD-10, Read V2, Read CTV3, SNOMED and OPCS format, as well as self-reported definitions from the UK Biobank 20002 and 20003 fields. For the UK Biobank, EHR data was curated from assessment centre interview (self-reported), primary care (Read V2 and Read CTV3 coded) and secondary care (ICD-9, ICD-10 and OPCS coded) sources[^2]. Details of the UK Biobank self-reported fields, assessment centre visits and values used to define each phenotype are given in **UKB_phenotype_definitions.xlsx**. For Genes & Health, EHR data was curated from primary care (SNOMED coded) and secondary care (ICD-10 coded) sources, in accordance with the type of data available.
+
+[^2]: Green, H.G. UKBB Health Care Records, <https://github.com/hdg204/UKBB> (2024).
 
 EHR code lists used here that were previously published elsewhere are listed below with references:
 - **20002_T2D.txt**, **20002_diabetes.txt**, **20003_diabetes_meds.txt**, **read_2_diabetes_diagnosis.txt**, **read_2_diabetes_drugs.txt**, **read_2_diabetes_other_types.txt**, **read_2_diabetes_qof.txt**, **read_3_diabetes_diagnosis.txt**, **read_3_diabetes_other_types.txt**, **read_3_diabetes_qof.txt**, **SNOMED_diabetes.csv** - from Young et al.<sup>2,3</sup> SNOMED_diabetes.csv contains the SNOMED codes for the ‘DM_COD’ section of the v44 Quality and Outcomes Framework (QOF)<sup>4</sup>.
@@ -30,8 +32,7 @@ The UK Biobank data used for this analysis (stored on DNAnexus) was last updated
 ## Model diagnostic plots
 Model diagnostic plots for the linear regression model used in the analysis of age of type 2 diagnosis and described in the **Supplementary Appendix**. Names of plot files refer to the cohort, ethnicity grouping and sex that the model was applied to.
 
-## References
-1. Green, H.G. UKBB Health Care Records, <https://github.com/hdg204/UKBB> (2024).
+
 2. Young, K.G., McGovern, A.P., Barroso, I., et al. The impact of population-level HbA(1c) screening on reducing diabetes diagnostic delay in middle-aged adults: a UK Biobank analysis. Diabetologia (2023); 66:300-9.
 3. Young, K.G. UK Biobank codelists, <https://github.com/drkgyoung/UK_Biobank_codelists> (2024).
 4. Quality and Outcomes Framework (QOF) v44, <https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-collections/quality-and-outcomes-framework-qof/quality-and-outcome-framework-qof-business-rules/quality-and-outcomes-framework-qof-business-rules-v44-2019-2020-october-2020-release> (2023).
