@@ -1,6 +1,8 @@
-# Undiagnosed G6PD deficiency in Black and Asian individuals is prevalent and contributes to health inequalities in type 2 diabetes diagnosis
+# Undiagnosed G6PD deficiency in Black and Asian individuals is prevalent and contributes to health inequalities in type 2 diabetes diagnosis and complications
 
-This repository contains the electronic health record (EHR) code lists, R scripts and PLINK commands required for analysis of this project, as well as model diagnostic plots for the linear regression models detailed in the **Supplementary Appendix**.
+This repository contains the electronic health record (EHR) code lists, R scripts and PLINK commands required for analysis for Martin et al. (2025)[^1], as well as model diagnostic plots for the linear regression models detailed in the **Supplementary Appendix**.
+
+[^1]: Susan Martin, Miriam Samuel, Daniel Stow, Alys M. Ridsdale, Ji Chen, Katherine G. Young, Harry D. Green, Genes & Health Research Team, Andrew T. Hattersley, Veline L’Esperance, Trevelyan J. McKinley, Sarah Finer and Inês Barroso. Undiagnosed G6PD deficiency in Black and Asian individuals is prevalent and contributes to health inequalities in type 2 diabetes diagnosis and complications. Diabetes Care, (in-press), 2025.
 
 ## EHR code lists for clinical phenotype defintions
 EHR code lists for all clinical phenotypes used in the analysis are given in read v2, read v3, ICD-9, ICD-10 and SNOMED format, as well as self-reported definitions from the UK Biobank 20002 and 20003 fields. For the UK Biobank, EHR data was curated from assessment centre interview (self-reported), primary care (read v2 and v3 coded) and secondary care (ICD-9 and ICD-10 coded) sources<sup>1</sup>. Details of the UK Biobank self-reported fields, assessment centre visits and values used to define each phenotype are given in **UKB_phenotype_definitions.xlsx**. For Genes & Health, EHR data was curated from primary care (SNOMED coded) and secondary care (ICD-10 coded) sources, in accordance with the type of data available.
