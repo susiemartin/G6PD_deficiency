@@ -10,9 +10,15 @@ EHR code lists for all clinical phenotypes used in the analysis are given in ICD
 [^2]: Green, H.G. UKBB Health Care Records, <https://github.com/hdg204/UKBB> (2024).
 
 EHR code lists used here that were previously published elsewhere are listed below with references:
-- **20002_T2D.txt**, **20002_diabetes.txt**, **20003_diabetes_meds.txt**, **read_2_diabetes_diagnosis.txt**, **read_2_diabetes_drugs.txt**, **read_2_diabetes_other_types.txt**, **read_2_diabetes_qof.txt**, **read_3_diabetes_diagnosis.txt**, **read_3_diabetes_other_types.txt**, **read_3_diabetes_qof.txt**, **SNOMED_diabetes.csv** - from Young et al.<sup>2,3</sup> SNOMED_diabetes.csv contains the SNOMED codes for the ‘DM_COD’ section of the v44 Quality and Outcomes Framework (QOF)<sup>4</sup>.
-- **MULTIPLY_Snomed_T2D.csv** - from Eto et al.<sup>5</sup>
-- **read_codes_pregnancy_Minassian_et_al.txt** - from Minassian et al.<sup>6</sup>
+- **20002_T2D.txt**, **20002_diabetes.txt**, **20003_diabetes_meds.txt**, **read_2_diabetes_diagnosis.txt**, **read_2_diabetes_drugs.txt**, **read_2_diabetes_other_types.txt**, **read_2_diabetes_qof.txt**, **read_3_diabetes_diagnosis.txt**, **read_3_diabetes_other_types.txt**, **read_3_diabetes_qof.txt**, **SNOMED_diabetes.csv** - from Young et al.[^3,4] SNOMED_diabetes.csv contains the SNOMED codes for the ‘DM_COD’ section of the v44 Quality and Outcomes Framework (QOF)[^5].
+- **MULTIPLY_Snomed_T2D.csv** - from Eto et al.[^6]
+- **read_codes_pregnancy_Minassian_et_al.txt** - from Minassian et al.[^7]
+
+[^3]: Young, K.G., McGovern, A.P., Barroso, I., et al. The impact of population-level HbA(1c) screening on reducing diabetes diagnostic delay in middle-aged adults: a UK Biobank analysis. Diabetologia (2023); 66:300-9.
+[^4]: Young, K.G. UK Biobank codelists, <https://github.com/drkgyoung/UK_Biobank_codelists> (2024).
+[^5]: Quality and Outcomes Framework (QOF) v44, <https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-collections/quality-and-outcomes-framework-qof/quality-and-outcome-framework-qof-business-rules/quality-and-outcomes-framework-qof-business-rules-v44-2019-2020-october-2020-release> (2023).
+[^6]: Eto, F., Samuel, M., Finer, S. MULTIPLY initiative, <https://github.com/Fabiola-Eto/MULTIPLY-Initiative> (2023).
+[^7]: Minassian, C., Williams, R., Meeraus, W.H., Smeeth, L., Campbell, O.M.R., Thomas, S.L. Methods to generate and validate a Pregnancy Register in the UK Clinical Practice Research Datalink primary care database. Pharmacoepidemiol Drug Saf (2019); 28:923-33.
 
 All other EHR code lists were curated by Susan Martin with Michael Barrington, Miriam Samuel and Inês Barroso.
 
@@ -20,7 +26,7 @@ All other EHR code lists were curated by Susan Martin with Michael Barrington, M
 
 The shell script **extract_UKB_WES_genotypes.sh** is to be executed using Bash on JupyterLab on DNAnexus. It contains PLINK commands to extract the whole exome sequencing (WES) data for the two genetic variants of interest, and recode the genotypes according to the additive model. Equivalent commands were used to extract the WES data for Genes & Health (on TRE).
 
-The below R scripts are split into phenotype data preparation and analysis. Names of the scripts include the cohort that these scripts are to be applied to - either UK Biobank (on DNAnexus) or Genes & Health (on TRE). Phenotype data preparation scripts for Genes & Health are comparable and will be available soon.
+The below R scripts are split into phenotype data preparation and analysis. Names of the scripts include the cohort that these scripts are to be applied to - either UK Biobank (on DNAnexus) or Genes & Health (on TRE). Phenotype data preparation scripts for Genes & Health are comparable and are available on request.
 
 R scripts are to be run in the following order (after running the above shell script):
 - **phenotype_prep_*.R**: Script to prepare phenotype data - uses EHR codes and defines all clinical phenotypes used in analyses
@@ -31,11 +37,3 @@ The UK Biobank data used for this analysis (stored on DNAnexus) was last updated
 
 ## Model diagnostic plots
 Model diagnostic plots for the linear regression model used in the analysis of age of type 2 diagnosis and described in the **Supplementary Appendix**. Names of plot files refer to the cohort, ethnicity grouping and sex that the model was applied to.
-
-
-2. Young, K.G., McGovern, A.P., Barroso, I., et al. The impact of population-level HbA(1c) screening on reducing diabetes diagnostic delay in middle-aged adults: a UK Biobank analysis. Diabetologia (2023); 66:300-9.
-3. Young, K.G. UK Biobank codelists, <https://github.com/drkgyoung/UK_Biobank_codelists> (2024).
-4. Quality and Outcomes Framework (QOF) v44, <https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-collections/quality-and-outcomes-framework-qof/quality-and-outcome-framework-qof-business-rules/quality-and-outcomes-framework-qof-business-rules-v44-2019-2020-october-2020-release> (2023).
-5. Eto, F., Samuel, M., Finer, S. MULTIPLY initiative, <https://github.com/Fabiola-Eto/MULTIPLY-Initiative> (2023).
-6. Minassian, C., Williams, R., Meeraus, W.H., Smeeth, L., Campbell, O.M.R., Thomas, S.L. Methods to generate and validate a Pregnancy Register in the UK Clinical Practice Research Datalink primary care database. Pharmacoepidemiol Drug Saf (2019); 28:923-33.
-
