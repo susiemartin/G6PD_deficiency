@@ -10,15 +10,19 @@ EHR code lists for all clinical phenotypes used in the analysis are given in ICD
 [^2]: Green, H.G. UKBB Health Care Records, <https://github.com/hdg204/UKBB> (2024).
 
 EHR code lists used here that were previously published elsewhere are listed below with references:
-- **20002_T2D.txt**, **20002_diabetes.txt**, **20003_diabetes_meds.txt**, **read_2_diabetes_diagnosis.txt**, **read_2_diabetes_drugs.txt**, **read_2_diabetes_other_types.txt**, **read_2_diabetes_qof.txt**, **read_3_diabetes_diagnosis.txt**, **read_3_diabetes_other_types.txt**, **read_3_diabetes_qof.txt**, **SNOMED_diabetes.csv** - from Young et al.[^3][^4] SNOMED_diabetes.csv contains the SNOMED codes for the ‘DM_COD’ section of the v44 Quality and Outcomes Framework (QOF)[^5].
-- **MULTIPLY_Snomed_T2D.csv** - from Eto et al.[^6]
-- **read_codes_pregnancy_Minassian_et_al.txt** - from Minassian et al.[^7]
+- All files within **EHR_codes/Diabetes**, **20002_cvd.txt**, **20002_hypertension.txt**, **20003_blood_pressure_meds.txt**, **exeter_icd10_*.txt** - from Young et al. (2023; 2024)[^3][^4] SNOMED_diabetes.csv contains the SNOMED codes for the ‘DM_COD’ section of the v44 Quality and Outcomes Framework (QOF)[^5].
+- **MULTIPLY_*.csv** - from Eto et al. (2023)[^6]
+- **read_codes_pregnancy_Minassian_et_al.txt** - from Minassian et al. (2019)[^7]
+- **LSHTM_CVD_ICD10_codes.csv** - from Forbes et al. (2018)[^8]
+- **Ritchie_20003_*.csv** - from Ritchie et al. (2024)[^9]
 
 [^3]: Young, K.G., McGovern, A.P., Barroso, I., et al. The impact of population-level HbA(1c) screening on reducing diabetes diagnostic delay in middle-aged adults: a UK Biobank analysis. Diabetologia (2023); 66:300-9.
 [^4]: Young, K.G. UK Biobank codelists, <https://github.com/drkgyoung/UK_Biobank_codelists> (2024).
 [^5]: Quality and Outcomes Framework (QOF) v44, <https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-collections/quality-and-outcomes-framework-qof/quality-and-outcome-framework-qof-business-rules/quality-and-outcomes-framework-qof-business-rules-v44-2019-2020-october-2020-release> (2023).
 [^6]: Eto, F., Samuel, M., Finer, S. MULTIPLY initiative, <https://github.com/Fabiola-Eto/MULTIPLY-Initiative> (2023).
 [^7]: Minassian, C., Williams, R., Meeraus, W.H., Smeeth, L., Campbell, O.M.R., Thomas, S.L. Methods to generate and validate a Pregnancy Register in the UK Clinical Practice Research Datalink primary care database. Pharmacoepidemiol Drug Saf (2019); 28:923-33.
+[^8]: Forbes H, Langan S. Clinical codelist - CVD ICD-10 codes. London School of Hygiene & Tropical Medicine, London, United Kingdom, 2018.
+[^9]: Ritchie SC, Taylor HJ, Liang Y, Manikpurage HD, Pennells L, Foguet C, Abraham G, Gibson JT, Jiang X, Liu Y, Xu Y, Kim LG, Mahajan A, McCarthy MI, Kaptoge S, Lambert SA, Wood A, Sim X, Collins FS, Denny JC, Danesh J, Butterworth AS, Di Angelantonio E, Inouye M. Integrated clinical risk prediction of type 2 diabetes with a multifactorial polygenic risk score. medRxiv (2024).
 
 All other EHR code lists were curated by Susan Martin with Michael Barrington, Miriam Samuel and Inês Barroso.
 
