@@ -1,6 +1,6 @@
 # Undiagnosed G6PD deficiency in Black and Asian individuals is prevalent and contributes to health inequalities in type 2 diabetes diagnosis and complications
 
-This repository contains the electronic health record (EHR) code lists, R scripts and PLINK commands required for analysis for Martin et al. (2025)[^1], as well as model diagnostic plots for the linear regression models detailed in the **Supplementary Appendix**.
+This repository contains the electronic health record (EHR) code lists, R scripts and PLINK commands required for analysis for Martin et al. (2025)[^1], as well as model diagnostic plots for the linear regression models detailed in the **Supplemental Material**.
 
 [^1]: Martin, S, Samuel, M, Stow, D, Ridsdale, AM, Chen, J, Young, KG, Green, HD, Genes & Health Research Team, Hattersley, AT, L’Esperance, V, McKinley, TJ, Finer, S, Barroso, I. Undiagnosed G6PD deficiency in Black and Asian individuals is prevalent and contributes to health inequalities in type 2 diabetes diagnosis and complications. Diabetes Care, (in-press), 2025.
 
@@ -40,7 +40,7 @@ R scripts are to be run in the following order (after running the above shell sc
 The UK Biobank data used for this analysis (stored on DNAnexus) was last updated on March 1st 2024 (total N=502,185). The UK Biobank fields extracted from the cohort dataset into *_participant.csv files (using the 'Table Exporter' tool), and which were then used in the R scripts, are given in **UKB_table_exporter_fields.xlsx**.
 
 ## Model diagnostic plots
-Model diagnostic plots for the linear regression models used in the analysis of age of type 2 diagnosis and presence of complications, and described in the **Supplementary Appendix**. Names of plot files refer to the cohort, ethnicity grouping and sex that the model was applied to.
+Model diagnostic plots for the linear regression models used in the analysis of age of type 2 diagnosis and presence of complications, and described in the **Supplemental Material**. Names of plot files refer to the cohort, ethnicity grouping and sex that the model was applied to.
 
 ## Matching diagnostic plots
-Diagnostic and love plots for the matching of participants by QDiabetes-2018 score A and risk factors used in the QDiabetes-2018 score analysis and matching, and described in the **Supplementary Appendix**. Names of plot files refer to the ethnicity grouping and sex that the matching was applied to.
+Diagnostic and love plots for the matching of participants by QDiabetes-2018 score A and risk factors used in the QDiabetes-2018 score analysis and matching, and described in the **Supplemental Material**. Names of plot files refer to the ethnicity grouping and sex that the matching was applied to.
