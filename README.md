@@ -37,7 +37,7 @@ R scripts are to be run in the following order (after running the above shell sc
 - **G6PD_analysis_*.R**: Script to combine genetic and phenotype data, apply necessary quality control to data and conduct all statistical analyses.
 
 ## UK Biobank version date and fields extracted
-The UK Biobank data used for this analysis (stored on DNAnexus) was last updated on March 1st 2024 (total N=502,185). The UK Biobank fields extracted from the cohort dataset into *.csv files (using the 'Table Exporter' tool), and which were then used in the R scripts, are given in **UKB_table_exporter_fields.xlsx**.
+The UK Biobank data used for this analysis (stored on DNAnexus) was last updated on March 1st 2024 (total N=502,185). The UK Biobank fields extracted from the cohort dataset into *_participant.csv files (using the 'Table Exporter' tool), and which were then used in the R scripts, are given in **UKB_table_exporter_fields.xlsx**.
 
 ## Model diagnostic plots
 Model diagnostic plots for the linear regression models used in the analysis of age of type 2 diagnosis and presence of complications, and described in the **Supplementary Appendix**. Names of plot files refer to the cohort, ethnicity grouping and sex that the model was applied to.
