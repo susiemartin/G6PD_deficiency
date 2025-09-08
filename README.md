@@ -44,3 +44,5 @@ Model diagnostic plots for the linear regression models used in the analysis of 
 
 ## Matching diagnostic plots
 Diagnostic and love plots for the matching of participants by QDiabetes-2018 score A and risk factors used in the QDiabetes-2018 score analysis and matching, and described in the **Supplemental Material**. Names of plot files refer to the ethnicity grouping and sex that the matching was applied to.
+
+Model and matching diagnostic plots not currently accessable will be made available within the coming days.
