@@ -16,15 +16,17 @@ EHR code lists used here that were previously published elsewhere are listed bel
 - **LSHTM_CVD_ICD10_codes.csv** - from Forbes et al. (2018)[^8]
 - **Ritchie_20003_*.csv** - from Ritchie et al. (2024)[^9]
 - **ICD10_smoking_status_Havard.csv** - from Havard et al. (2014)[^10]
+- **BNF_names_corticosteroids_Quint.csv** - from Quint et al. (2020)[^11]
 
 [^3]: Young, KG, McGovern, AP, Barroso, I, et al. The impact of population-level HbA(1c) screening on reducing diabetes diagnostic delay in middle-aged adults: a UK Biobank analysis. Diabetologia (2023); 66:300-9.
 [^4]: Young, KG. UK Biobank codelists, <https://github.com/drkgyoung/UK_Biobank_codelists> (2024).
 [^5]: Quality and Outcomes Framework (QOF) v44, <https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-collections/quality-and-outcomes-framework-qof/quality-and-outcome-framework-qof-business-rules/quality-and-outcomes-framework-qof-business-rules-v44-2019-2020-october-2020-release> (2023).
 [^6]: Eto, F, Samuel, M, Finer, S. MULTIPLY initiative, <https://github.com/Fabiola-Eto/MULTIPLY-Initiative> (2023).
 [^7]: Minassian, C, Williams, R, Meeraus, WH, Smeeth, L, Campbell, OMR, Thomas, SL. Methods to generate and validate a Pregnancy Register in the UK Clinical Practice Research Datalink primary care database. Pharmacoepidemiol Drug Saf (2019); 28:923-33.
-[^8]: Forbes H, Langan S. Clinical codelist - CVD ICD-10 codes. London School of Hygiene & Tropical Medicine, London, United Kingdom, 2018.
+[^8]: Forbes H, Langan S. Clinical codelist - CVD ICD-10 codes. London School of Hygiene & Tropical Medicine, London, United Kingdom (2018).
 [^9]: Ritchie SC, Taylor HJ, Liang Y, Manikpurage HD, Pennells L, Foguet C, Abraham G, Gibson JT, Jiang X, Liu Y, Xu Y, Kim LG, Mahajan A, McCarthy MI, Kaptoge S, Lambert SA, Wood A, Sim X, Collins FS, Denny JC, Danesh J, Butterworth AS, Di Angelantonio E, Inouye M. Integrated clinical risk prediction of type 2 diabetes with a multifactorial polygenic risk score. medRxiv (2024).
 [^10]: Havard A, Jorm LR, Lujic S. Risk adjustment for smoking identified through tobacco use diagnoses in hospital data: a validation study. PLoS One (2014); 9(4):e95029.
+[^11]: Quint, JK. Therapy codelist - Oral Corticosteroid codes. London School of Hygiene & Tropical Medicine, London, United Kingdom (2020).
 
 All other EHR code lists were curated by Susan Martin with Michael Barrington, Miriam Samuel and Inês Barroso.
 
